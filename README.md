@@ -1,2 +1,2 @@
 # MaestriaIA
-Master in AI &amp; Data science
+Master's degree in AI &amp; Data science
