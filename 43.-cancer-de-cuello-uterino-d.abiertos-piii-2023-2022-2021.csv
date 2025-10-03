@@ -1,0 +1,884 @@
+codigo_sspm,fec_not,cod_divipola,ciudad,dpto,edad_,sexo_,tip_ss_,per_etn_,fec_con_,ini_sin_,fec_toma_e,fec_res_ex,biop_exoce,res_b_exoc,grado_hist,biop_endoc,res_b_aden,res_b_hist,fecha_corte,fecha_reporte_web
+1,4-ene-23,76369,Cali,Valle,42,femenino,subsidiado,otro,1-sept-22,16-jun-22,23-ago-22,26-ago-22,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,27-mar-23,15-abr-23
+2,6-ene-23,76370,Cali,Valle,73,femenino,contributivo,otro,4-ene-23,1-jun-22,2-dic-22,2-dic-22,no,#N/A,#N/A,si,positivo,no indicado,27-mar-23,15-abr-23
+3,11-ene-23,76371,Cali,Valle,50,femenino,subsidiado,otro,11-ene-23,23-dic-22,13-dic-22,23-dic-22,si,lei-ag,in-situ,si,positivo,infiltrante,27-mar-23,15-abr-23
+4,13-ene-23,76372,Cali,Valle,73,femenino,contributivo,otro,16-may-22,30-mar-22,30-mar-22,8-abr-22,no,#N/A,#N/A,no,#N/A,#N/A,27-mar-23,15-abr-23
+5,13-ene-23,76373,Cali,Valle,43,femenino,contributivo,otro,13-ene-23,24-nov-22,24-nov-22,24-nov-22,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+6,13-ene-23,76374,Cali,Valle,81,femenino,contributivo,otro,14-sept-22,19-jul-22,19-jul-22,22-jul-22,no,#N/A,#N/A,no,#N/A,#N/A,27-mar-23,15-abr-23
+7,10-ene-23,76375,Cali,Valle,39,femenino,subsidiado,otro,9-ene-23,3-ene-23,24-oct-22,24-oct-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+8,11-ene-23,76376,Cali,Valle,29,femenino,contributivo,otro,11-ene-23,11-ene-23,19-dic-22,19-dic-22,si,carcinoma escamocelular,no indicado,si,positivo,in-situ,27-mar-23,15-abr-23
+9,16-ene-23,76377,Cali,Valle,59,femenino,contributivo,otro,16-ene-23,26-dic-22,9-dic-22,19-dic-22,no,#N/A,#N/A,no,#N/A,#N/A,27-mar-23,15-abr-23
+10,20-ene-23,76378,Cali,Valle,31,femenino,subsidiado,otro,28-sept-22,31-ago-22,20-dic-22,18-ene-23,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+11,17-ene-23,76379,Cali,Valle,68,femenino,no afiliado,otro,16-ene-23,9-dic-22,9-dic-22,9-dic-22,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+12,20-ene-23,76380,Cali,Valle,58,femenino,subsidiado,otro,2-dic-22,5-oct-22,9-jun-22,23-jun-22,no,#N/A,#N/A,no,#N/A,#N/A,27-mar-23,15-abr-23
+13,20-ene-23,76381,Cali,Valle,44,femenino,contributivo,otro,1-dic-22,8-oct-22,24-nov-22,9-dic-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+14,20-ene-23,76382,Cali,Valle,81,femenino,contributivo,otro,23-nov-22,8-sept-22,31-oct-22,15-nov-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+15,20-ene-23,76383,Cali,Valle,49,femenino,contributivo,otro,9-nov-22,3-feb-22,24-nov-22,9-dic-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+16,20-ene-23,76384,Cali,Valle,66,femenino,contributivo,otro,15-jun-22,25-may-22,27-may-22,11-jun-22,no,#N/A,#N/A,no,#N/A,#N/A,27-mar-23,15-abr-23
+17,20-ene-23,76385,Cali,Valle,66,femenino,contributivo,otro,11-oct-22,20-sept-22,20-sept-22,11-oct-22,no,#N/A,#N/A,si,positivo,in-situ,27-mar-23,15-abr-23
+18,23-ene-23,76386,Cali,Valle,51,femenino,subsidiado,otro,23-ene-23,23-ene-23,23-ene-23,27-ene-23,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+19,25-ene-23,76387,Cali,Valle,61,femenino,contributivo,otro,25-ene-23,1-may-22,2-ene-23,2-ene-23,no,#N/A,#N/A,si,positivo,infiltrante,27-mar-23,15-abr-23
+20,1-feb-23,76388,Cali,Valle,67,femenino,subsidiado,otro,13-ene-23,13-ene-23,17-ene-23,20-ene-23,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+21,31-ene-23,76389,Cali,Valle,39,femenino,contributivo,otro,31-ene-23,29-dic-22,14-ene-23,31-ene-23,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+22,31-ene-23,76390,Cali,Valle,35,femenino,subsidiado,otro,31-ene-23,31-ene-23,31-ene-23,3-feb-23,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+23,4-feb-23,76391,Cali,Valle,62,femenino,subsidiado,otro,3-ene-23,15-sept-22,26-ene-23,1-feb-23,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+24,6-feb-23,76392,Cali,Valle,60,femenino,contributivo,otro,3-feb-23,19-jun-22,31-ene-23,31-ene-23,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+25,7-feb-23,76393,Cali,Valle,28,femenino,contributivo,otro,7-feb-23,31-ene-23,31-ene-23,7-feb-23,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+26,8-feb-23,76394,Cali,Valle,55,femenino,contributivo,otro,8-feb-23,13-ene-23,27-ene-23,27-ene-23,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+27,16-feb-23,76395,Cali,Valle,48,femenino,contributivo,otro,14-feb-23,1-feb-22,19-dic-22,19-dic-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+28,13-feb-23,76396,Cali,Valle,19,femenino,subsidiado,otro,13-feb-23,13-feb-23,13-feb-23,16-feb-23,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+29,16-feb-23,76397,Cali,Valle,57,femenino,subsidiado,otro,16-feb-23,16-feb-23,17-feb-23,17-feb-23,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+30,16-feb-23,76398,Cali,Valle,36,femenino,excepcion,otro,16-feb-23,24-nov-22,24-nov-22,5-dic-22,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+31,16-feb-23,76399,Cali,Valle,24,femenino,contributivo,otro,15-feb-23,22-dic-22,20-dic-22,22-dic-22,si,carcinoma escamocelular,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+32,16-feb-23,76400,Cali,Valle,36,femenino,subsidiado,otro,16-feb-23,30-nov-21,7-jul-22,17-jul-22,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+33,17-feb-23,76401,Cali,Valle,22,femenino,contributivo,otro,17-feb-23,17-feb-23,14-feb-23,17-feb-23,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+34,16-feb-23,76402,Cali,Valle,50,femenino,subsidiado,otro,16-feb-23,7-sept-22,14-dic-22,23-dic-22,no,#N/A,#N/A,si,positivo,in-situ,27-mar-23,15-abr-23
+35,15-feb-23,76403,Cali,Valle,53,femenino,subsidiado,otro,15-feb-23,15-feb-23,1-feb-23,17-feb-23,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+36,16-feb-23,76404,Cali,Valle,48,femenino,subsidiado,otro,16-feb-23,11-ene-23,11-ene-23,20-ene-23,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+37,14-feb-23,76405,Cali,Valle,30,femenino,contributivo,otro,10-feb-23,2-ago-22,7-sept-22,7-sept-22,no,#N/A,#N/A,si,positivo,in-situ,27-mar-23,15-abr-23
+38,16-feb-23,76406,Cali,Valle,39,femenino,contributivo,otro,26-abr-22,26-abr-22,24-ene-22,24-feb-22,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+39,16-feb-23,76407,Cali,Valle,36,femenino,contributivo,otro,16-feb-23,16-feb-23,9-feb-23,14-feb-23,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+40,25-feb-23,76408,Cali,Valle,55,femenino,subsidiado,otro,6-ene-23,10-dic-22,29-dic-22,10-ene-23,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+41,23-feb-23,76409,Cali,Valle,30,femenino,contributivo,otro,18-feb-23,18-feb-23,2-feb-23,8-feb-23,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+42,25-feb-23,76410,Cali,Valle,69,femenino,contributivo,otro,14-dic-22,10-oct-22,7-dic-22,22-dic-22,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+43,20-feb-23,76411,Cali,Valle,36,femenino,subsidiado,otro,26-dic-22,26-dic-22,3-ene-23,3-feb-23,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+44,22-feb-23,76412,Cali,Valle,40,femenino,subsidiado,otro,24-ene-23,18-ene-23,24-ene-23,4-feb-23,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+45,22-feb-23,76413,Cali,Valle,41,femenino,subsidiado,otro,20-ene-23,20-ene-23,31-ene-23,4-feb-23,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+46,22-feb-23,76414,Cali,Valle,25,femenino,subsidiado,otro,24-ene-23,18-ene-23,24-ene-23,4-feb-23,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+47,20-feb-23,76415,Cali,Valle,39,femenino,no afiliado,otro,17-feb-23,1-nov-22,18-nov-22,18-nov-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+48,22-feb-23,76416,Cali,Valle,29,femenino,subsidiado,otro,18-ene-23,18-ene-23,24-ene-23,6-feb-23,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+49,25-feb-23,76417,Cali,Valle,40,femenino,subsidiado,otro,24-ene-23,24-ene-23,24-ene-23,1-feb-23,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+50,25-feb-23,76418,Cali,Valle,34,femenino,no afiliado,otro,10-ene-23,10-ene-23,10-ene-23,16-ene-23,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+51,25-feb-23,76419,Cali,Valle,30,femenino,no afiliado,otro,3-ene-23,3-ene-23,4-ene-23,13-ene-23,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+52,2-mar-23,76420,Cali,Valle,37,femenino,subsidiado,otro,1-mar-23,30-ene-23,1-feb-23,3-feb-23,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+53,2-mar-23,76421,Cali,Valle,20,femenino,subsidiado,otro,1-mar-23,20-sept-22,20-sept-22,20-sept-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+54,1-mar-23,76422,Cali,Valle,37,femenino,contributivo,otro,1-mar-23,5-may-22,17-feb-23,17-feb-23,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+55,2-mar-23,76423,Cali,Valle,30,femenino,subsidiado,otro,28-feb-23,16-nov-22,16-nov-22,10-dic-22,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+56,4-mar-23,76424,Cali,Valle,58,femenino,subsidiado,otro,24-ene-23,12-ago-22,3-feb-23,9-feb-23,no,#N/A,#N/A,si,positivo,infiltrante,27-mar-23,15-abr-23
+57,10-mar-23,76425,Cali,Valle,59,femenino,contributivo,otro,7-abr-22,31-mar-22,3-may-22,24-may-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+58,6-mar-23,76426,Cali,Valle,39,femenino,contributivo,otro,6-mar-23,27-ene-23,24-feb-23,6-mar-23,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,27-mar-23,15-abr-23
+59,6-mar-23,76427,Cali,Valle,37,femenino,contributivo,otro,10-jun-22,5-ene-22,21-feb-22,8-mar-22,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+60,6-mar-23,76428,Cali,Valle,45,femenino,contributivo,afrocolombiano,1-feb-23,5-dic-22,5-dic-22,10-ene-23,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+61,10-mar-23,76429,Cali,Valle,38,femenino,contributivo,otro,17-feb-22,20-dic-21,18-feb-22,19-abr-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+62,8-mar-23,76430,Cali,Valle,41,femenino,contributivo,otro,8-mar-23,1-dic-22,11-feb-23,11-feb-23,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+63,6-mar-23,76431,Cali,Valle,46,femenino,subsidiado,otro,20-dic-22,18-may-22,9-may-22,16-may-22,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+64,9-mar-23,76432,Cali,Valle,41,femenino,subsidiado,otro,13-ene-23,10-nov-22,10-nov-22,10-nov-22,no,#N/A,#N/A,no,#N/A,#N/A,27-mar-23,15-abr-23
+65,11-mar-23,76433,Cali,Valle,31,femenino,subsidiado,otro,11-mar-23,11-mar-23,8-oct-22,12-oct-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+66,8-mar-23,76434,Cali,Valle,42,femenino,contributivo,otro,21-ene-23,12-dic-22,22-dic-22,5-ene-23,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+67,9-mar-23,76435,Cali,Valle,54,femenino,contributivo,otro,7-dic-22,17-sept-22,1-oct-22,3-oct-22,no,#N/A,#N/A,si,positivo,in-situ,27-mar-23,15-abr-23
+68,7-mar-23,76436,Cali,Valle,35,femenino,contributivo,otro,17-feb-22,28-ene-22,28-ene-22,28-ene-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+69,10-mar-23,76437,Cali,Valle,51,femenino,no afiliado,otro,25-abr-22,1-abr-22,25-abr-22,5-may-22,si,carcinoma escamocelular,no indicado,si,positivo,no indicado,27-mar-23,15-abr-23
+70,8-mar-23,76438,Cali,Valle,63,femenino,contributivo,otro,26-oct-22,20-jul-22,1-oct-22,15-oct-22,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+71,8-mar-23,76439,Cali,Valle,49,femenino,contributivo,otro,21-ene-23,10-ago-22,30-ago-22,12-sept-22,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+72,9-mar-23,76440,Cali,Valle,31,femenino,subsidiado,otro,27-feb-23,27-ene-23,27-feb-23,7-mar-23,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+73,8-mar-23,76441,Cali,Valle,34,femenino,contributivo,otro,21-nov-22,15-ago-22,14-nov-22,24-nov-22,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,27-mar-23,15-abr-23
+74,17-mar-23,76442,Cali,Valle,75,femenino,contributivo,otro,1-ene-23,1-ene-23,19-ene-23,28-ene-23,no,#N/A,#N/A,si,positivo,infiltrante,27-mar-23,15-abr-23
+75,16-mar-23,76443,Cali,Valle,80,femenino,contributivo,otro,15-mar-23,15-nov-22,16-ene-23,16-ene-23,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+76,15-mar-23,76444,Cali,Valle,46,femenino,contributivo,otro,15-mar-23,15-mar-23,10-sept-22,27-sept-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+77,17-mar-23,76445,Cali,Valle,40,femenino,contributivo,otro,26-ene-23,4-nov-22,13-ene-23,25-ene-23,no,#N/A,#N/A,si,positivo,no indicado,27-mar-23,15-abr-23
+78,15-mar-23,76446,Cali,Valle,37,femenino,subsidiado,otro,14-mar-23,18-dic-22,19-dic-22,22-dic-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+79,13-mar-23,76447,Cali,Valle,70,femenino,subsidiado,otro,6-jul-22,28-may-22,27-jul-22,11-ago-22,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,27-mar-23,15-abr-23
+80,17-mar-23,76448,Cali,Valle,39,femenino,contributivo,otro,9-mar-23,9-feb-23,27-feb-23,7-mar-23,no,#N/A,#N/A,si,positivo,infiltrante,27-mar-23,15-abr-23
+81,18-mar-23,76449,Cali,Valle,77,femenino,contributivo,otro,21-ene-23,8-sept-22,3-ene-23,18-ene-23,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+82,15-mar-23,76450,Cali,Valle,72,femenino,subsidiado,otro,28-sept-22,1-ago-22,11-ago-22,11-ago-22,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+83,18-mar-23,76451,Cali,Valle,36,femenino,contributivo,otro,2-mar-23,9-ene-23,14-feb-23,1-mar-23,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+84,22-mar-23,76452,Cali,Valle,58,femenino,subsidiado,otro,1-ago-22,1-ago-22,1-sept-22,5-sept-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+85,22-mar-23,76453,Cali,Valle,28,femenino,contributivo,otro,1-nov-22,1-nov-22,1-dic-22,5-dic-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+86,24-mar-23,76454,Cali,Valle,40,femenino,contributivo,otro,1-jul-22,1-jul-22,1-ene-23,7-ene-23,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+87,23-mar-23,76455,Cali,Valle,74,femenino,contributivo,otro,21-mar-23,1-abr-22,8-feb-23,8-feb-23,no,#N/A,#N/A,no,#N/A,#N/A,27-mar-23,15-abr-23
+88,23-mar-23,76456,Cali,Valle,68,femenino,contributivo,otro,4-ene-23,2-ene-23,20-dic-22,2-ene-23,si,carcinoma escamocelular,infiltrante,si,positivo,no indicado,27-mar-23,15-abr-23
+89,22-mar-23,76457,Cali,Valle,38,femenino,subsidiado,otro,1-nov-22,1-nov-22,1-nov-22,5-nov-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+90,23-mar-23,76458,Cali,Valle,32,femenino,subsidiado,otro,1-jun-22,1-jun-22,1-jul-22,7-jul-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+91,23-mar-23,76459,Cali,Valle,47,femenino,subsidiado,otro,1-jun-22,1-jun-22,1-oct-22,7-oct-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+92,22-mar-23,76460,Cali,Valle,40,femenino,contributivo,otro,1-nov-22,1-nov-22,1-ene-23,5-ene-23,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+93,22-mar-23,76461,Cali,Valle,29,femenino,contributivo,afrocolombiano,1-sept-22,1-sept-22,1-ene-23,5-ene-23,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+94,24-mar-23,76462,Cali,Valle,34,femenino,contributivo,afrocolombiano,1-feb-23,1-feb-23,2-mar-23,8-mar-23,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+95,24-mar-23,76463,Cali,Valle,50,femenino,subsidiado,#N/A,1-ene-23,1-ene-23,6-mar-23,12-mar-23,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+96,24-mar-23,76464,Cali,Valle,43,femenino,contributivo,otro,18-ene-23,18-ene-23,13-feb-23,16-feb-23,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+97,22-mar-23,76465,Cali,Valle,35,femenino,contributivo,otro,1-sept-22,1-sept-22,1-oct-22,5-oct-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+98,23-mar-23,76466,Cali,Valle,25,femenino,contributivo,otro,1-nov-21,1-nov-21,1-ene-22,7-ene-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+99,21-mar-23,76467,Cali,Valle,48,femenino,contributivo,otro,26-dic-22,26-dic-22,5-ene-22,13-ene-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+100,21-mar-23,76468,Cali,Valle,45,femenino,contributivo,afrocolombiano,4-ago-22,1-mar-22,4-ago-22,10-ago-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+101,24-mar-23,76469,Cali,Valle,28,femenino,contributivo,otro,1-oct-22,1-oct-22,9-feb-23,14-feb-23,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+102,24-mar-23,76470,Cali,Valle,35,femenino,contributivo,otro,1-ago-22,1-ago-22,1-nov-22,7-nov-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+103,21-mar-23,76471,Cali,Valle,33,femenino,contributivo,otro,2-ene-23,1-mar-22,2-ene-23,6-ene-23,si,carcinoma escamocelular,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+104,22-mar-23,76472,Cali,Valle,40,femenino,contributivo,otro,20-feb-23,12-dic-22,20-ene-23,4-feb-23,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+105,22-mar-23,76473,Cali,Valle,53,femenino,subsidiado,otro,22-mar-23,12-dic-22,27-feb-23,14-mar-23,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+106,23-mar-23,76474,Cali,Valle,64,femenino,subsidiado,otro,15-feb-23,1-feb-23,1-nov-22,26-nov-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+107,22-mar-23,76475,Cali,Valle,41,femenino,subsidiado,otro,21-feb-23,10-sept-22,6-oct-22,22-oct-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+108,21-mar-23,76476,Cali,Valle,43,femenino,subsidiado,otro,6-mar-23,6-feb-23,6-mar-23,15-mar-23,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+109,22-mar-23,76477,Cali,Valle,27,femenino,contributivo,otro,14-mar-23,19-dic-22,7-mar-23,22-mar-23,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+110,22-mar-23,76478,Cali,Valle,36,femenino,contributivo,otro,21-ene-23,12-dic-22,5-ene-23,20-ene-23,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+111,31-mar-23,76479,Cali,Valle,31,femenino,subsidiado,otro,29-mar-23,16-mar-23,2-mar-23,29-mar-23,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,27-mar-23,15-abr-23
+112,31-mar-23,76480,Cali,Valle,62,femenino,contributivo,otro,27-mar-23,10-mar-23,10-mar-23,10-mar-23,no,#N/A,#N/A,si,positivo,no indicado,27-mar-23,15-abr-23
+113,27-mar-23,76481,Cali,Valle,37,femenino,contributivo,otro,13-mar-23,13-feb-23,13-mar-23,23-mar-23,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+1,4-ene-22,76002,Cali,Valle,37,femenino,contributivo,otro,3-ene-22,29-dic-21,29-nov-21,29-nov-21,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+2,5-ene-22,76002,Cali,Valle,40,femenino,subsidiado,otro,14-dic-21,15-ago-21,6-oct-22,7-oct-22,si,carcinoma escamocelular,infiltrante,si,positivo,in-situ,27-mar-23,15-abr-23
+3,4-ene-22,76002,Cali,Valle,62,femenino,contributivo,otro,3-ene-22,26-jun-21,24-jun-21,24-jun-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+4,9-ene-22,76003,Cali,Valle,42,femenino,subsidiado,otro,9-ene-22,21-sept-21,17-dic-21,21-dic-21,si,carcinoma escamocelular,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+5,12-ene-22,76004,Cali,Valle,53,femenino,subsidiado,otro,12-ene-22,27-sept-21,7-dic-21,20-dic-21,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+6,19-ene-22,76005,Cali,Valle,54,femenino,subsidiado,otro,14-ene-22,17-dic-21,27-dic-21,3-ene-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+7,19-ene-22,76006,Cali,Valle,49,femenino,subsidiado,otro,19-ene-22,19-ene-22,19-ene-22,25-ene-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+8,18-ene-22,76007,Cali,Valle,40,femenino,subsidiado,otro,18-ene-22,18-ene-22,18-ene-22,21-ene-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+9,21-ene-22,76008,Cali,Valle,47,femenino,subsidiado,otro,20-ene-22,20-ago-21,20-ago-21,20-ago-21,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+10,19-ene-22,76009,Cali,Valle,33,femenino,subsidiado,otro,19-ene-22,7-oct-21,17-dic-21,27-dic-21,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+11,25-ene-22,76010,Cali,Valle,69,femenino,contributivo,otro,24-ene-22,1-oct-21,23-dic-21,23-dic-21,no,#N/A,#N/A,si,positivo,in-situ,27-mar-23,15-abr-23
+12,28-ene-22,76011,Cali,Valle,23,femenino,subsidiado,otro,28-ene-22,28-sept-21,18-ene-22,25-ene-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+13,28-ene-22,76012,Cali,Valle,32,femenino,subsidiado,otro,27-ene-22,29-nov-21,14-dic-21,20-dic-21,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+14,28-ene-22,76013,Cali,Valle,36,femenino,subsidiado,otro,27-ene-22,10-nov-21,14-dic-21,20-dic-21,si,carcinoma escamocelular,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+15,26-ene-22,76014,Cali,Valle,27,femenino,contributivo,otro,25-ene-22,7-sept-21,26-oct-21,26-oct-21,si,carcinoma escamocelular,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+16,27-ene-22,76015,Cali,Valle,48,femenino,subsidiado,otro,27-ene-22,27-ene-22,27-ene-22,3-feb-22,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+17,26-ene-22,76016,Cali,Valle,36,femenino,subsidiado,otro,26-ene-22,20-dic-21,20-dic-21,28-dic-21,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+18,31-ene-22,76017,Cali,Valle,23,femenino,subsidiado,otro,28-ene-22,2-oct-21,26-oct-21,3-nov-21,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+19,3-feb-22,76018,Cali,Valle,59,femenino,subsidiado,otro,3-feb-22,3-feb-22,3-feb-22,7-mar-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+20,4-feb-22,76019,Cali,Valle,42,femenino,subsidiado,afrocolombiano,4-feb-22,25-ene-22,21-ene-22,25-ene-22,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,27-mar-23,15-abr-23
+21,2-feb-22,76020,Cali,Valle,70,femenino,subsidiado,otro,2-feb-22,2-feb-22,2-feb-22,4-feb-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+22,3-feb-22,76021,Cali,Valle,44,femenino,subsidiado,otro,7-ene-22,17-dic-21,18-ene-22,25-ene-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+23,3-feb-22,76022,Cali,Valle,32,femenino,subsidiado,otro,3-feb-22,6-oct-21,11-ene-22,19-ene-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+24,3-feb-22,76023,Cali,Valle,38,femenino,subsidiado,otro,3-feb-22,3-feb-22,3-feb-22,7-feb-22,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,27-mar-23,15-abr-23
+25,11-feb-22,76024,Cali,Valle,47,femenino,subsidiado,otro,11-feb-22,22-dic-21,22-dic-21,3-feb-22,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+26,11-feb-22,76025,Cali,Valle,50,femenino,subsidiado,otro,10-feb-22,26-nov-21,25-ene-22,27-ene-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+27,11-feb-22,76026,Cali,Valle,30,femenino,subsidiado,otro,11-feb-22,20-oct-21,1-feb-22,3-feb-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+28,7-feb-22,76027,Cali,Valle,30,femenino,contributivo,otro,5-feb-22,20-ene-22,20-ene-22,20-ene-22,no,#N/A,#N/A,no,#N/A,#N/A,27-mar-23,15-abr-23
+29,11-feb-22,76028,Cali,Valle,51,femenino,subsidiado,otro,4-feb-22,4-feb-21,3-nov-21,20-nov-21,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,27-mar-23,15-abr-23
+30,10-feb-22,76029,Cali,Valle,63,femenino,subsidiado,otro,9-feb-22,14-ene-22,21-ene-22,21-ene-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+31,9-feb-22,76030,Cali,Valle,47,femenino,no afiliado,otro,7-feb-22,24-ene-22,24-ene-22,7-feb-22,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+32,9-feb-22,76031,Cali,Valle,29,femenino,subsidiado,otro,7-feb-22,24-ene-22,2-feb-22,7-feb-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+33,10-feb-22,76032,Cali,Valle,33,femenino,subsidiado,otro,26-ene-22,3-nov-21,1-feb-22,4-feb-22,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,27-mar-23,15-abr-23
+34,10-feb-22,76033,Cali,Valle,39,femenino,subsidiado,otro,13-ene-22,15-dic-21,18-ene-22,25-ene-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+35,14-feb-22,76034,Cali,Valle,34,femenino,contributivo,otro,14-feb-22,14-feb-22,14-feb-22,22-mar-22,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+36,15-feb-22,76035,Cali,Valle,78,femenino,excepcion,otro,27-oct-21,21-jul-21,21-jul-21,23-sept-21,no,#N/A,#N/A,si,positivo,no indicado,27-mar-23,15-abr-23
+37,18-feb-22,76036,Cali,Valle,42,femenino,contributivo,otro,21-ene-22,1-ene-22,27-ene-22,27-ene-22,si,lei-ag,no indicado,si,positivo,no indicado,27-mar-23,15-abr-23
+38,17-feb-22,76037,Cali,Valle,56,femenino,contributivo,otro,16-feb-22,16-nov-21,28-ene-22,28-ene-22,no,#N/A,#N/A,si,positivo,infiltrante,27-mar-23,15-abr-23
+39,17-feb-22,76038,Cali,Valle,36,femenino,subsidiado,otro,17-feb-22,17-ago-21,23-nov-21,6-dic-21,si,carcinoma escamocelular,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+40,18-feb-22,76039,Cali,Valle,24,femenino,contributivo,otro,27-ene-22,1-ene-22,27-ene-22,6-feb-22,si,lei-ag,no indicado,si,positivo,infiltrante,27-mar-23,15-abr-23
+41,18-feb-22,76040,Cali,Valle,39,femenino,contributivo,afrocolombiano,10-feb-22,1-ene-22,10-feb-22,10-feb-22,si,carcinoma escamocelular,no indicado,si,positivo,no indicado,27-mar-23,15-abr-23
+42,25-feb-22,76041,Cali,Valle,39,femenino,contributivo,otro,24-feb-22,11-oct-21,20-ene-22,20-ene-22,si,carcinoma escamocelular,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+43,24-feb-22,76042,Cali,Valle,27,femenino,subsidiado,raizal ,24-feb-22,19-ene-22,8-feb-22,15-feb-22,si,lei-ag,in-situ,si,positivo,infiltrante,27-mar-23,15-abr-23
+44,23-feb-22,76043,Cali,Valle,53,femenino,subsidiado,otro,23-feb-22,19-ene-22,8-feb-22,15-feb-22,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,27-mar-23,15-abr-23
+45,24-feb-22,76044,Cali,Valle,30,femenino,subsidiado,otro,24-feb-22,13-ene-22,8-feb-22,15-feb-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+46,3-mar-22,76045,Cali,Valle,44,femenino,contributivo,otro,1-mar-22,1-ene-21,28-feb-22,28-feb-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+47,2-mar-22,76046,Cali,Valle,36,femenino,subsidiado,otro,1-mar-22,2-feb-22,17-nov-21,17-nov-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+48,12-mar-22,76047,Cali,Valle,87,femenino,contributivo,otro,10-ene-22,9-ene-22,31-ene-22,9-feb-22,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,27-mar-23,15-abr-23
+49,7-mar-22,76048,Cali,Valle,33,femenino,contributivo,otro,5-mar-22,26-oct-21,27-ene-22,27-ene-22,si,lei-ag,no indicado,si,positivo,no indicado,27-mar-23,15-abr-23
+50,9-mar-22,76049,Cali,Valle,41,femenino,contributivo,otro,2-mar-22,2-ene-22,2-mar-22,8-mar-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+51,8-mar-22,76050,Cali,Valle,36,femenino,subsidiado,otro,24-ene-22,24-ene-22,24-ene-22,27-ene-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+52,12-mar-22,76051,Cali,Valle,54,femenino,subsidiado,otro,9-mar-22,31-ene-22,16-feb-22,17-feb-22,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+53,8-mar-22,76052,Cali,Valle,33,femenino,subsidiado,otro,31-ene-22,31-ene-22,31-ene-22,3-feb-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+54,10-mar-22,76053,Cali,Valle,59,femenino,subsidiado,otro,10-mar-22,10-mar-22,10-mar-22,14-mar-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+55,9-mar-22,76054,Cali,Valle,53,femenino,contributivo,otro,8-mar-22,8-mar-22,16-feb-22,16-feb-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+56,10-mar-22,76055,Cali,Valle,31,femenino,subsidiado,otro,10-feb-22,10-feb-22,15-feb-22,21-feb-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+57,12-mar-22,76056,Cali,Valle,56,femenino,subsidiado,otro,2-feb-22,12-dic-21,4-feb-22,3-mar-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+58,17-mar-22,76057,Cali,Valle,25,femenino,contributivo,otro,15-feb-22,15-feb-22,3-mar-22,10-mar-22,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+59,16-mar-22,76058,Cali,Valle,39,femenino,contributivo,otro,15-mar-22,31-ene-22,25-feb-22,25-feb-22,si,carcinoma escamocelular,no indicado,si,positivo,no indicado,27-mar-23,15-abr-23
+60,18-mar-22,76059,Cali,Valle,83,femenino,subsidiado,otro,17-mar-22,24-nov-21,15-feb-22,17-feb-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+61,17-mar-22,76060,Cali,Valle,80,femenino,contributivo,otro,30-mar-21,28-mar-21,6-abr-21,12-abr-21,no,#N/A,#N/A,si,positivo,infiltrante,27-mar-23,15-abr-23
+62,19-mar-22,76061,Cali,Valle,37,femenino,subsidiado,otro,3-nov-21,3-nov-21,3-nov-21,9-nov-21,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+63,19-mar-22,76062,Cali,Valle,30,femenino,subsidiado,otro,21-dic-21,21-dic-21,21-dic-21,21-dic-21,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+64,15-mar-22,76063,Cali,Valle,57,femenino,subsidiado,otro,9-feb-22,9-feb-22,9-feb-22,15-feb-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+65,19-mar-22,76064,Cali,Valle,31,femenino,subsidiado,otro,26-ene-22,26-ene-22,26-ene-22,1-feb-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+66,17-mar-22,76065,Cali,Valle,41,femenino,subsidiado,otro,17-mar-22,17-mar-22,17-mar-22,22-mar-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+67,15-mar-22,76066,Cali,Valle,44,femenino,contributivo,otro,14-mar-22,8-mar-22,8-mar-22,8-mar-22,no,#N/A,#N/A,no,#N/A,#N/A,27-mar-23,15-abr-23
+68,17-mar-22,76067,Cali,Valle,49,femenino,subsidiado,otro,7-ene-22,7-ene-22,15-feb-22,18-feb-22,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+69,26-mar-22,76068,Cali,Valle,68,femenino,subsidiado,otro,10-mar-22,23-feb-22,15-mar-22,18-mar-22,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+70,25-mar-22,76069,Cali,Valle,36,femenino,contributivo,otro,23-mar-22,2-feb-22,2-feb-22,14-feb-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+71,26-mar-22,76070,Cali,Valle,69,femenino,subsidiado,otro,14-mar-22,7-sept-21,15-mar-22,18-mar-22,no,#N/A,#N/A,si,positivo,in-situ,27-mar-23,15-abr-23
+72,24-mar-22,76071,Cali,Valle,53,femenino,contributivo,otro,9-mar-22,9-mar-22,9-mar-22,27-abr-22,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+73,26-mar-22,76072,Cali,Valle,20,femenino,contributivo,afrocolombiano,3-mar-22,1-ene-22,3-mar-22,8-mar-22,si,lei-ag,no indicado,si,positivo,no indicado,27-mar-23,15-abr-23
+74,1-abr-22,76073,Cali,Valle,32,femenino,subsidiado,otro,3-feb-22,3-feb-22,3-feb-22,7-feb-22,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,27-mar-23,15-abr-23
+75,29-mar-22,76074,Cali,Valle,34,femenino,contributivo,otro,26-may-21,2-mar-21,9-abr-21,17-abr-21,si,carcinoma escamocelular,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+76,1-abr-22,76075,Cali,Valle,26,femenino,subsidiado,otro,28-feb-22,28-feb-22,28-feb-22,2-mar-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+77,31-mar-22,76076,Cali,Valle,45,femenino,contributivo,otro,30-mar-22,29-may-21,3-feb-22,3-feb-22,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+78,1-abr-22,76077,Cali,Valle,31,femenino,subsidiado,otro,6-dic-21,6-dic-21,6-dic-21,10-dic-21,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+79,31-mar-22,76078,Cali,Valle,44,femenino,subsidiado,otro,31-mar-22,31-mar-22,31-mar-22,4-abr-22,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+80,30-mar-22,76079,Cali,Valle,27,femenino,subsidiado,otro,30-mar-22,30-mar-22,30-mar-22,4-abr-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+81,28-mar-22,76080,Cali,Valle,53,femenino,subsidiado,otro,11-feb-22,11-feb-22,11-feb-22,17-feb-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+82,1-abr-22,76081,Cali,Valle,51,femenino,subsidiado,otro,1-abr-22,1-abr-22,11-may-22,13-may-22,si,carcinoma escamocelular,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+83,28-mar-22,76082,Cali,Valle,47,femenino,subsidiado,otro,23-dic-21,23-dic-21,23-dic-21,30-dic-21,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+84,28-mar-22,76083,Cali,Valle,62,femenino,excepcion,otro,28-mar-22,9-dic-21,16-mar-22,22-mar-22,si,carcinoma escamocelular,no indicado,si,positivo,infiltrante,27-mar-23,15-abr-23
+85,1-abr-22,76084,Cali,Valle,31,femenino,contributivo,otro,31-mar-22,18-ene-21,26-feb-22,26-feb-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+86,4-abr-22,76085,Cali,Valle,69,femenino,subsidiado,otro,1-abr-22,1-abr-22,1-abr-22,6-abr-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+87,7-abr-22,76086,Cali,Valle,31,femenino,subsidiado,otro,7-abr-22,7-abr-22,7-abr-22,9-abr-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+88,8-abr-22,76087,Cali,Valle,40,femenino,subsidiado,otro,8-abr-22,17-mar-22,24-mar-22,31-mar-22,si,carcinoma escamocelular,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+89,6-abr-22,76088,Cali,Valle,34,femenino,contributivo,otro,5-abr-22,5-ene-22,25-mar-22,25-mar-22,no,#N/A,#N/A,si,positivo,no indicado,27-mar-23,15-abr-23
+90,14-abr-22,76089,Cali,Valle,50,femenino,subsidiado,otro,13-abr-22,29-dic-21,24-ene-22,24-ene-22,si,carcinoma escamocelular,no indicado,si,positivo,no indicado,27-mar-23,15-abr-23
+91,11-abr-22,76090,Cali,Valle,30,femenino,contributivo,otro,8-abr-22,16-mar-22,18-mar-22,18-mar-22,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+92,12-abr-22,76091,Cali,Valle,42,femenino,excepcion,otro,9-jun-21,17-ene-21,18-jun-21,25-jun-21,no,#N/A,#N/A,si,negativo,#N/A,27-mar-23,15-abr-23
+93,11-abr-22,76092,Cali,Valle,39,femenino,excepcion,otro,18-feb-22,23-ago-21,3-nov-21,9-nov-21,no,#N/A,#N/A,si,positivo,in-situ,27-mar-23,15-abr-23
+94,16-abr-22,76093,Cali,Valle,58,femenino,subsidiado,otro,7-feb-22,15-nov-21,14-mar-22,28-mar-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+95,21-abr-22,76094,Cali,Valle,32,femenino,subsidiado,otro,16-mar-22,16-mar-22,29-mar-22,5-abr-22,si,carcinoma escamocelular,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+96,23-abr-22,76095,Cali,Valle,37,femenino,subsidiado,otro,21-abr-22,21-abr-22,21-abr-22,27-abr-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+97,22-abr-22,76096,Cali,Valle,28,femenino,subsidiado,otro,22-abr-22,22-abr-22,22-abr-22,27-abr-22,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+98,23-abr-22,76097,Cali,Valle,58,femenino,subsidiado,otro,10-mar-22,10-dic-21,23-mar-22,29-mar-22,no,#N/A,#N/A,si,positivo,infiltrante,27-mar-23,15-abr-23
+99,30-abr-22,76098,Cali,Valle,41,femenino,contributivo,otro,9-abr-22,1-feb-22,9-abr-22,13-abr-22,si,carcinoma escamocelular,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+100,30-abr-22,76099,Cali,Valle,65,femenino,subsidiado,otro,23-mar-22,1-feb-22,23-mar-22,27-mar-22,si,carcinoma escamocelular,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+101,30-abr-22,76100,Cali,Valle,28,femenino,contributivo,otro,2-abr-22,1-feb-22,2-abr-22,6-abr-22,si,carcinoma escamocelular,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+102,28-abr-22,76101,Cali,Valle,41,femenino,subsidiado,otro,28-abr-22,28-abr-22,28-abr-22,3-may-22,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+103,28-abr-22,76102,Cali,Valle,91,femenino,subsidiado,otro,28-abr-22,28-abr-22,28-abr-22,30-abr-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+104,28-abr-22,76103,Cali,Valle,33,femenino,contributivo,otro,27-abr-22,17-nov-20,30-mar-22,30-mar-22,no,#N/A,#N/A,si,positivo,no indicado,27-mar-23,15-abr-23
+105,29-abr-22,76104,Cali,Valle,47,femenino,contributivo,otro,11-mar-22,2-feb-22,29-mar-22,5-abr-22,no,#N/A,#N/A,si,positivo,no indicado,27-mar-23,15-abr-23
+106,29-abr-22,76105,Cali,Valle,30,femenino,subsidiado,otro,29-mar-22,11-mar-22,5-abr-22,8-abr-22,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+107,26-abr-22,76106,Cali,Valle,27,femenino,contributivo,otro,6-abr-22,6-mar-22,6-abr-22,22-abr-22,si,carcinoma escamocelular,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+108,1-may-22,76107,Cali,Valle,43,femenino,contributivo,otro,28-feb-22,25-ene-22,28-ene-22,15-feb-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+109,3-may-22,76108,Cali,Valle,43,femenino,contributivo,otro,2-may-22,10-mar-21,12-abr-22,12-abr-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+110,2-may-22,76109,Cali,Valle,39,femenino,contributivo,otro,29-abr-22,25-mar-22,25-mar-22,25-mar-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+111,2-may-22,76110,Cali,Valle,44,femenino,subsidiado,otro,29-abr-22,26-ene-22,19-abr-22,20-abr-22,si,lei-ag,in-situ,si,positivo,no indicado,27-mar-23,15-abr-23
+112,1-may-22,76111,Cali,Valle,34,femenino,contributivo,otro,4-mar-22,10-feb-22,11-feb-22,25-feb-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+113,6-may-22,76112,Cali,Valle,33,femenino,subsidiado,otro,22-dic-21,22-dic-21,22-dic-21,24-dic-21,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+114,6-may-22,76113,Cali,Valle,38,femenino,subsidiado,otro,6-may-22,4-may-22,4-may-22,6-may-22,si,lei-ag,no indicado,si,positivo,infiltrante,27-mar-23,15-abr-23
+115,5-may-22,76114,Cali,Valle,38,femenino,contributivo,otro,4-may-22,12-abr-22,12-abr-22,12-abr-22,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+116,2-may-22,76115,Cali,Valle,41,femenino,subsidiado,otro,5-abr-22,5-abr-22,7-abr-22,11-abr-22,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+117,11-may-22,76116,Cali,Valle,38,femenino,no afiliado,otro,11-may-22,11-may-22,11-may-22,16-may-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+118,10-may-22,76117,Cali,Valle,29,femenino,subsidiado,otro,10-may-22,10-may-22,10-may-22,13-may-22,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+119,11-may-22,76118,Cali,Valle,34,femenino,subsidiado,otro,11-may-22,11-may-22,11-may-22,16-may-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+120,9-may-22,76119,Cali,Valle,46,femenino,subsidiado,otro,9-may-22,9-may-22,9-may-22,11-may-22,si,lei-ag,no indicado,si,positivo,in-situ,27-mar-23,15-abr-23
+121,10-may-22,76120,Cali,Valle,27,femenino,subsidiado,otro,10-may-22,10-may-22,10-may-22,12-may-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+122,19-may-22,76121,Cali,Valle,31,femenino,subsidiado,otro,2-feb-22,27-ene-22,26-abr-22,10-may-22,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+123,16-may-22,76122,Cali,Valle,41,femenino,subsidiado,otro,13-may-22,13-may-22,7-abr-22,7-abr-22,si,lei-ag,no indicado,si,positivo,in-situ,27-mar-23,15-abr-23
+124,16-may-22,76123,Cali,Valle,31,femenino,contributivo,otro,16-may-22,16-may-22,16-may-22,19-may-22,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+125,19-may-22,76124,Cali,Valle,41,femenino,subsidiado,otro,19-may-22,19-may-22,19-may-22,23-may-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+126,19-may-22,76125,Cali,Valle,24,femenino,subsidiado,otro,19-may-22,19-may-22,19-may-22,23-may-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+127,16-may-22,76126,Cali,Valle,37,femenino,contributivo,otro,25-abr-22,25-abr-22,28-abr-22,11-may-22,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+128,18-may-22,76127,Cali,Valle,69,femenino,subsidiado,otro,18-may-22,18-may-22,18-may-22,23-may-22,si,lei-ag,no indicado,si,positivo,infiltrante,27-mar-23,15-abr-23
+129,21-may-22,76128,Cali,Valle,53,femenino,subsidiado,otro,19-mar-22,10-oct-21,30-mar-22,5-abr-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+130,18-may-22,76129,Cali,Valle,64,femenino,subsidiado,otro,4-abr-22,4-abr-22,4-abr-22,7-abr-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+131,16-may-22,76130,Cali,Valle,36,femenino,contributivo,otro,13-may-22,1-mar-22,14-mar-22,14-mar-22,no,#N/A,#N/A,no,#N/A,#N/A,27-mar-23,15-abr-23
+132,24-may-22,76131,Cali,Valle,55,femenino,contributivo,otro,23-may-22,9-feb-22,26-abr-22,7-may-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+133,27-may-22,76132,Cali,Valle,38,femenino,subsidiado,otro,27-may-22,27-may-22,27-may-22,2-jun-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+134,28-may-22,76133,Cali,Valle,48,femenino,subsidiado,otro,27-may-22,27-may-22,27-may-22,2-jun-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+135,22-may-22,76134,Cali,Valle,40,femenino,contributivo,otro,26-abr-22,26-ene-22,26-abr-22,17-may-22,si,carcinoma escamocelular,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+136,28-may-22,76135,Cali,Valle,48,femenino,contributivo,otro,11-may-22,1-ene-22,11-may-22,16-may-22,si,lei-ag,no indicado,si,positivo,no indicado,27-mar-23,15-abr-23
+137,27-may-22,76136,Cali,Valle,28,femenino,subsidiado,otro,29-abr-22,29-abr-22,17-may-22,20-may-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+138,27-may-22,76137,Cali,Valle,27,femenino,subsidiado,otro,9-may-22,9-may-22,17-may-22,20-may-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+139,26-may-22,76138,Cali,Valle,40,femenino,subsidiado,otro,2-may-22,6-abr-22,3-may-22,10-may-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+140,23-may-22,76139,Cali,Valle,29,femenino,contributivo,otro,18-mar-22,18-mar-22,28-sept-21,10-feb-22,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+141,27-may-22,76140,Cali,Valle,38,femenino,subsidiado,otro,9-may-22,9-may-22,17-may-22,20-may-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+142,26-may-22,76141,Cali,Valle,55,femenino,subsidiado,otro,24-may-22,24-mar-22,24-mar-22,24-mar-22,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+143,28-may-22,76142,Cali,Valle,39,femenino,contributivo,otro,21-abr-22,1-ene-22,24-abr-22,29-abr-22,si,lei-ag,no indicado,si,positivo,no indicado,27-mar-23,15-abr-23
+144,31-may-22,76143,Cali,Valle,51,femenino,subsidiado,otro,4-feb-22,10-sept-21,12-ene-22,31-ene-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+145,31-may-22,76144,Cali,Valle,56,femenino,subsidiado,otro,8-mar-22,10-ene-22,21-ene-22,7-feb-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+146,31-may-22,76145,Cali,Valle,42,femenino,contributivo,otro,2-mar-22,18-feb-22,18-feb-22,18-feb-22,no,#N/A,#N/A,no,#N/A,#N/A,27-mar-23,15-abr-23
+147,31-may-22,76146,Cali,Valle,32,femenino,subsidiado,otro,27-may-22,22-abr-22,17-may-22,17-may-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+148,31-may-22,76147,Cali,Valle,43,femenino,contributivo,otro,2-feb-22,10-feb-21,5-ene-22,20-ene-22,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+149,3-jun-22,76148,Cali,Valle,39,femenino,subsidiado,otro,3-jun-22,24-may-22,24-may-22,24-may-22,si,lei-ag,in-situ,si,positivo,no indicado,27-mar-23,15-abr-23
+150,31-may-22,76149,Cali,Valle,44,femenino,contributivo,otro,31-may-22,31-may-22,31-may-22,2-jun-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+151,1-jun-22,76150,Cali,Valle,35,femenino,subsidiado,otro,1-jun-22,1-jun-22,1-jun-22,7-jun-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+152,31-may-22,76151,Cali,Valle,24,femenino,contributivo,otro,31-may-22,31-may-22,31-may-22,6-jun-22,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+153,2-jun-22,76152,Cali,Valle,67,femenino,subsidiado,otro,1-jun-22,1-jun-22,1-jun-22,1-jun-22,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,27-mar-23,15-abr-23
+154,3-jun-22,76153,Cali,Valle,75,femenino,subsidiado,otro,19-mar-22,6-feb-22,15-feb-22,15-feb-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+155,9-jun-22,76154,Cali,Valle,36,femenino,subsidiado,otro,19-may-22,19-may-22,24-may-22,27-may-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+156,9-jun-22,76155,Cali,Valle,28,femenino,contributivo,otro,27-abr-22,27-abr-22,31-mar-22,20-abr-22,si,carcinoma escamocelular,in-situ,si,positivo,no indicado,27-mar-23,15-abr-23
+157,6-jun-22,76156,Cali,Valle,60,femenino,subsidiado,otro,6-jun-22,6-jun-22,6-jun-22,8-jun-22,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,27-mar-23,15-abr-23
+158,8-jun-22,76157,Cali,Valle,45,femenino,contributivo,otro,7-jun-22,1-jun-20,17-may-22,17-may-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+159,8-jun-22,76158,Cali,Valle,56,femenino,subsidiado,otro,2-jun-22,27-abr-22,27-may-22,2-jun-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+160,6-jun-22,76159,Cali,Valle,35,femenino,contributivo,otro,6-jun-22,6-jun-22,6-jun-22,8-jun-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+161,8-jun-22,76160,Cali,Valle,51,femenino,subsidiado,otro,8-jun-22,5-ene-22,5-may-22,19-may-22,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,27-mar-23,15-abr-23
+162,7-jun-22,76161,Cali,Valle,32,femenino,subsidiado,otro,19-may-22,19-may-22,24-may-22,27-may-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+163,7-jun-22,76162,Cali,Valle,62,femenino,subsidiado,otro,29-mar-22,29-mar-22,3-may-22,10-may-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+164,14-jun-22,76163,Cali,Valle,47,femenino,subsidiado,otro,13-jun-22,13-jun-22,13-jun-22,15-jun-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+165,13-jun-22,76164,Cali,Valle,31,femenino,subsidiado,otro,13-jun-22,13-jun-22,13-jun-22,15-jun-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+166,14-jun-22,76165,Cali,Valle,46,femenino,subsidiado,otro,14-jun-22,14-jun-22,14-jun-22,16-jun-22,si,lei-ag,in-situ,si,positivo,no indicado,27-mar-23,15-abr-23
+167,14-jun-22,76166,Cali,Valle,66,femenino,contributivo,otro,14-jun-22,13-abr-22,1-jun-22,11-jun-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+168,17-jun-22,76167,Cali,Valle,32,femenino,contributivo,otro,15-jun-22,31-mar-22,2-jun-22,8-jun-22,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,27-mar-23,15-abr-23
+169,18-jun-22,76168,Cali,Valle,74,femenino,subsidiado,otro,4-abr-22,1-mar-22,4-jun-22,9-jun-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+170,22-jun-22,76169,Cali,Valle,33,femenino,contributivo,otro,22-jun-22,26-may-22,26-may-22,22-jun-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+171,21-jun-22,76170,Cali,Valle,37,femenino,subsidiado,otro,17-jun-22,19-may-22,7-jun-22,10-jun-22,si,lei-ag,in-situ,si,positivo,no indicado,27-mar-23,15-abr-23
+172,21-jun-22,76171,Cali,Valle,32,femenino,subsidiado,otro,17-jun-22,10-may-22,7-jun-22,10-jun-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+173,22-jun-22,76172,Cali,Valle,63,femenino,contributivo,otro,25-may-22,25-may-22,5-may-22,11-may-22,#N/A,#N/A,infiltrante,si,#N/A,#N/A,27-mar-23,15-abr-23
+174,24-jun-22,76173,Cali,Valle,45,femenino,subsidiado,otro,23-jun-22,1-ene-22,17-may-22,18-may-22,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+175,22-jun-22,76174,Cali,Valle,57,femenino,subsidiado,otro,21-jun-22,21-jun-22,21-jun-22,24-jun-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+176,23-jun-22,76175,Cali,Valle,26,femenino,subsidiado,otro,22-jun-22,22-jun-22,22-jun-22,22-jun-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+177,23-jun-22,76176,Cali,Valle,32,femenino,subsidiado,otro,22-jun-22,22-jun-22,22-jun-22,28-jun-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+178,29-jun-22,76177,Cali,Valle,53,femenino,subsidiado,otro,28-jun-22,28-jun-22,28-jun-22,5-jul-22,no,#N/A,#N/A,si,positivo,infiltrante,27-mar-23,15-abr-23
+179,29-jun-22,76178,Cali,Valle,26,femenino,subsidiado,otro,23-jun-22,19-may-22,14-jun-22,17-jun-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+180,1-jul-22,76179,Cali,Valle,49,femenino,subsidiado,otro,30-jun-22,30-jun-22,30-jun-22,6-jul-22,si,lei-ag,in-situ,si,positivo,no indicado,27-mar-23,15-abr-23
+181,29-jun-22,76180,Cali,Valle,44,femenino,subsidiado,otro,23-jun-22,20-may-22,20-may-22,17-jun-22,si,lei-ag,no indicado,si,positivo,no indicado,27-mar-23,15-abr-23
+182,30-jun-22,76181,Cali,Valle,31,femenino,subsidiado,otro,29-jun-22,29-jun-22,29-jun-22,6-jul-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+183,1-jul-22,76182,Cali,Valle,67,femenino,contributivo,otro,24-jun-22,11-may-22,11-may-22,11-may-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+184,30-jun-22,76183,Cali,Valle,60,femenino,subsidiado,otro,29-jun-22,29-jun-22,29-jun-22,6-jul-22,si,carcinoma escamocelular,no indicado,si,positivo,infiltrante,27-mar-23,15-abr-23
+185,1-jul-22,76184,Cali,Valle,30,femenino,contributivo,otro,24-jun-22,17-jun-22,2-feb-22,2-feb-22,no,#N/A,#N/A,si,positivo,infiltrante,27-mar-23,15-abr-23
+186,7-jul-22,76185,Cali,Valle,66,femenino,subsidiado,otro,6-jul-22,6-jul-22,6-jul-22,12-jul-22,si,lei-ag,in-situ,si,positivo,no indicado,27-mar-23,15-abr-23
+187,9-jul-22,76186,Cali,Valle,52,femenino,subsidiado,otro,8-jul-22,8-jul-22,8-jul-22,12-jul-22,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+188,9-jul-22,76187,Cali,Valle,35,femenino,subsidiado,otro,8-jul-22,8-jul-22,8-jul-22,13-jul-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+189,13-jul-22,76188,Cali,Valle,30,femenino,subsidiado,otro,22-jun-22,22-jun-22,28-jun-22,6-jul-22,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,27-mar-23,15-abr-23
+190,15-jul-22,76189,Cali,Valle,69,femenino,subsidiado,otro,15-jul-22,29-mar-22,22-mar-22,29-mar-22,no,#N/A,#N/A,si,positivo,infiltrante,27-mar-23,15-abr-23
+191,14-jul-22,76190,Cali,Valle,35,femenino,subsidiado,otro,13-jul-22,13-jun-22,13-jun-22,15-jun-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+192,15-jul-22,76191,Cali,Valle,63,femenino,subsidiado,otro,14-jul-22,14-jul-22,14-jul-22,19-jul-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+193,13-jul-22,76192,Cali,Valle,39,femenino,subsidiado,otro,13-jul-22,23-jun-22,29-jun-22,12-jul-22,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+194,14-jul-22,76193,Cali,Valle,63,femenino,contributivo,otro,13-jul-22,24-may-22,24-jun-22,30-jun-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+195,15-jul-22,76194,Cali,Valle,44,femenino,contributivo,otro,15-jun-22,20-abr-22,15-jun-22,2-jul-22,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+196,22-jul-22,76195,Cali,Valle,37,femenino,subsidiado,otro,21-jul-22,25-jun-22,26-ago-22,1-sept-22,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+197,20-jul-22,76196,Cali,Valle,33,femenino,subsidiado,otro,19-jul-22,19-jul-22,26-ago-22,30-ago-22,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,27-mar-23,15-abr-23
+198,22-jul-22,76197,Cali,Valle,28,femenino,subsidiado,otro,21-jul-22,21-jul-22,21-jul-22,25-jul-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+199,25-jul-22,76198,Cali,Valle,40,femenino,contributivo,otro,15-jun-22,15-jun-22,26-may-22,26-may-22,si,#N/A,#N/A,si,positivo,in-situ,27-mar-23,15-abr-23
+200,26-jul-22,76199,Cali,Valle,39,femenino,contributivo,otro,25-jul-22,25-jul-22,25-jul-22,28-jul-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+201,26-jul-22,76200,Cali,Valle,31,femenino,subsidiado,otro,25-jul-22,25-jul-22,25-jul-22,28-jul-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+202,29-jul-22,76201,Cali,Valle,69,femenino,subsidiado,otro,28-jul-22,28-jul-22,28-jul-22,1-ago-22,si,carcinoma escamocelular,no indicado,si,positivo,infiltrante,27-mar-23,15-abr-23
+203,4-ago-22,76202,Cali,Valle,50,femenino,subsidiado,otro,27-may-22,2-ene-22,11-may-22,29-may-22,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+204,4-ago-22,76203,Cali,Valle,43,femenino,contributivo,otro,9-mar-22,1-ene-22,8-feb-22,28-feb-22,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+205,2-ago-22,76204,Cali,Valle,55,femenino,contributivo,otro,17-feb-22,5-ene-22,5-ene-22,20-ene-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+206,4-ago-22,76205,Cali,Valle,36,femenino,subsidiado,otro,3-ago-22,3-ago-22,3-ago-22,9-ago-22,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,27-mar-23,15-abr-23
+207,1-ago-22,76206,Cali,Valle,43,femenino,contributivo,otro,29-jul-22,1-jun-22,5-jul-22,5-jul-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+208,8-ago-22,76207,Cali,Valle,25,femenino,subsidiado,otro,5-ago-22,13-jul-22,26-jul-22,28-jul-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+209,20-ago-22,76208,Cali,Valle,31,femenino,subsidiado,otro,17-ago-22,1-ene-22,13-jul-22,19-jul-22,si,lei-ag,no indicado,si,positivo,no indicado,27-mar-23,15-abr-23
+210,20-ago-22,76209,Cali,Valle,36,femenino,contributivo,otro,17-ago-22,1-ene-22,15-jul-22,15-jul-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+211,17-ago-22,76210,Cali,Valle,61,femenino,subsidiado,otro,3-ago-22,3-ago-22,9-ago-22,12-ago-22,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,27-mar-23,15-abr-23
+212,20-ago-22,76211,Cali,Valle,38,femenino,subsidiado,afrocolombiano,17-ago-22,1-ene-22,17-ago-22,20-ago-22,si,lei-ag,no indicado,si,positivo,no indicado,27-mar-23,15-abr-23
+213,20-ago-22,76212,Cali,Valle,35,femenino,contributivo,otro,19-ago-22,1-ene-22,9-jun-22,15-jun-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+214,20-ago-22,76213,Cali,Valle,29,femenino,contributivo,otro,8-ago-22,1-ene-22,8-ago-11,11-ago-22,si,lei-ag,no indicado,si,positivo,no indicado,27-mar-23,15-abr-23
+215,20-ago-22,76214,Cali,Valle,27,femenino,contributivo,otro,19-ago-22,1-ene-22,19-ago-22,20-ago-22,si,lei-ag,no indicado,si,positivo,no indicado,27-mar-23,15-abr-23
+216,18-ago-22,76215,Cali,Valle,43,femenino,subsidiado,otro,13-ago-22,22-jul-22,27-jul-22,2-ago-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+217,20-ago-22,76216,Cali,Valle,32,femenino,contributivo,otro,18-ago-22,1-ene-22,24-jun-22,2-jul-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+218,17-ago-22,76217,Cali,Valle,31,femenino,subsidiado,otro,1-jul-22,14-jun-22,26-jul-22,3-ago-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+219,20-ago-22,76218,Cali,Valle,35,femenino,contributivo,otro,18-ago-22,1-ene-22,18-ago-22,20-ago-22,si,lei-ag,no indicado,si,positivo,no indicado,27-mar-23,15-abr-23
+220,18-ago-22,76219,Cali,Valle,59,femenino,subsidiado,otro,26-jul-22,3-jun-22,5-jun-22,11-jul-22,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+221,17-ago-22,76220,Cali,Valle,43,femenino,subsidiado,otro,12-ago-22,21-jul-22,1-jul-22,8-jul-22,no,#N/A,#N/A,si,positivo,infiltrante,27-mar-23,15-abr-23
+222,20-ago-22,76221,Cali,Valle,35,femenino,subsidiado,otro,18-ago-22,1-ene-22,26-may-22,3-jun-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+223,20-ago-22,76222,Cali,Valle,38,femenino,contributivo,otro,8-ago-22,1-ene-22,8-ago-22,12-ago-22,si,lei-ag,no indicado,si,positivo,no indicado,27-mar-23,15-abr-23
+224,20-ago-22,76223,Cali,Valle,44,femenino,contributivo,otro,18-ago-22,1-ene-22,22-may-22,3-jun-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+225,22-ago-22,76224,Cali,Valle,28,femenino,contributivo,otro,18-ago-22,11-jun-22,4-ago-22,16-ago-22,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+226,22-ago-22,76225,Cali,Valle,42,femenino,contributivo,otro,19-ago-22,19-may-22,30-jun-22,30-jun-22,no,#N/A,#N/A,si,positivo,infiltrante,27-mar-23,15-abr-23
+227,29-ago-22,76226,Cali,Valle,39,femenino,contributivo,otro,26-ago-22,30-dic-21,21-jun-22,21-jun-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+228,31-ago-22,76227,Cali,Valle,36,femenino,contributivo,otro,31-ago-22,25-ago-22,25-ago-22,31-ago-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+229,31-ago-22,76228,Cali,Valle,65,femenino,contributivo,otro,30-ago-22,1-mar-22,5-ago-22,16-ago-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+230,29-ago-22,76229,Cali,Valle,23,femenino,subsidiado,otro,12-ago-22,5-ago-22,16-ago-22,22-ago-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+231,31-ago-22,76230,Cali,Valle,30,femenino,contributivo,otro,30-ago-22,30-mar-22,8-ago-22,8-ago-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+232,10-sept-22,76231,Cali,Valle,30,femenino,subsidiado,otro,9-sept-22,14-jun-22,14-jun-22,17-jun-22,si,lei-ag,no indicado,si,positivo,in-situ,27-mar-23,15-abr-23
+233,6-sept-22,76232,Cali,Valle,40,femenino,subsidiado,rom ,18-ago-22,1-ene-22,18-ago-22,22-ago-22,si,lei-ag,no indicado,si,positivo,no indicado,27-mar-23,15-abr-23
+234,10-sept-22,76233,Cali,Valle,24,femenino,subsidiado,otro,10-sept-22,9-sept-22,22-jul-22,26-jul-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+235,10-sept-22,76234,Cali,Valle,30,femenino,subsidiado,otro,9-sept-22,9-sept-22,13-jul-22,18-jul-22,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+236,10-sept-22,76235,Cali,Valle,24,femenino,subsidiado,otro,9-sept-22,2-sept-22,14-jul-22,19-jul-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+237,10-sept-22,76236,Cali,Valle,38,femenino,subsidiado,otro,9-sept-22,14-jul-22,14-jul-22,21-jul-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+238,9-sept-22,76237,Cali,Valle,32,femenino,subsidiado,otro,22-ago-22,14-jul-22,23-ago-22,29-ago-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+239,9-sept-22,76238,Cali,Valle,32,femenino,subsidiado,otro,22-ago-22,14-jul-22,23-ago-22,29-ago-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+240,15-sept-22,76239,Cali,Valle,32,femenino,subsidiado,otro,22-jun-22,27-may-22,23-ago-22,29-ago-22,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+241,12-sept-22,76240,Cali,Valle,80,femenino,contributivo,otro,12-sept-22,5-feb-22,25-ago-22,25-ago-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+242,15-sept-22,76241,Cali,Valle,39,femenino,subsidiado,otro,14-sept-22,14-sept-22,25-jul-22,28-jul-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+243,15-sept-22,76242,Cali,Valle,44,femenino,subsidiado,otro,5-jul-22,5-jul-22,23-ago-22,29-ago-22,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+244,23-sept-22,76243,Cali,Valle,34,femenino,subsidiado,otro,21-sept-22,21-sept-22,8-jul-22,11-jul-22,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+245,21-sept-22,76244,Cali,Valle,53,femenino,contributivo,otro,20-sept-22,1-ene-18,3-sept-22,3-sept-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+246,23-sept-22,76245,Cali,Valle,71,femenino,contributivo,otro,14-jun-22,14-may-22,19-jul-22,8-ago-22,no,#N/A,#N/A,si,positivo,no indicado,27-mar-23,15-abr-23
+247,29-sept-22,76246,Cali,Valle,37,femenino,excepcion,otro,30-mar-22,1-ene-22,13-dic-21,13-dic-21,no,#N/A,#N/A,si,positivo,no indicado,27-mar-23,15-abr-23
+248,27-sept-22,76247,Cali,Valle,42,femenino,subsidiado,otro,27-sept-22,27-sept-22,20-ene-23,6-feb-23,si,lei-ag,no indicado,si,positivo,in-situ,27-mar-23,15-abr-23
+249,28-sept-22,76248,Cali,Valle,28,femenino,contributivo,otro,27-sept-22,1-ene-19,6-sept-22,12-sept-22,no,#N/A,#N/A,si,positivo,in-situ,27-mar-23,15-abr-23
+250,29-sept-22,76249,Cali,Valle,55,femenino,excepcion,otro,22-abr-22,1-ene-22,18-mar-22,18-mar-22,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+251,6-oct-22,76250,Cali,Valle,57,femenino,contributivo,otro,5-oct-22,1-sept-22,23-sept-22,30-sept-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+252,5-oct-22,76251,Cali,Valle,55,femenino,contributivo,otro,3-oct-22,1-abr-22,13-sept-22,13-sept-22,no,#N/A,#N/A,si,positivo,infiltrante,27-mar-23,15-abr-23
+253,8-oct-22,76252,Cali,Valle,65,femenino,subsidiado,otro,7-oct-22,7-oct-22,24-jun-22,5-jul-22,si,lei-ag,no indicado,si,positivo,no indicado,27-mar-23,15-abr-23
+254,8-oct-22,76253,Cali,Valle,52,femenino,subsidiado,otro,7-oct-22,7-oct-22,2-ago-22,9-ago-22,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+255,6-oct-22,76254,Cali,Valle,63,femenino,subsidiado,otro,3-oct-22,5-jul-22,19-sept-22,19-sept-22,no,#N/A,#N/A,si,negativo,#N/A,27-mar-23,15-abr-23
+256,7-oct-22,76255,Cali,Valle,48,femenino,contributivo,otro,5-oct-22,1-dic-21,30-sept-22,30-sept-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+257,9-oct-22,76256,Cali,Valle,65,femenino,subsidiado,otro,8-oct-22,8-oct-22,11-oct-22,12-oct-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+258,14-oct-22,76257,Cali,Valle,62,femenino,subsidiado,otro,12-oct-22,12-oct-22,23-ago-22,27-ago-22,si,lei-ag,no indicado,si,positivo,in-situ,27-mar-23,15-abr-23
+259,14-oct-22,76258,Cali,Valle,51,femenino,subsidiado,otro,14-oct-22,14-oct-22,31-ago-22,7-sept-22,si,carcinoma escamocelular,in-situ,si,positivo,no indicado,27-mar-23,15-abr-23
+260,9-oct-22,76259,Cali,Valle,61,femenino,subsidiado,otro,8-oct-22,8-oct-22,6-sept-22,9-sept-22,si,lei-ag,no indicado,si,positivo,infiltrante,27-mar-23,15-abr-23
+261,14-oct-22,76260,Cali,Valle,41,femenino,subsidiado,otro,12-oct-22,12-oct-22,16-ago-22,18-ago-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+262,14-oct-22,76261,Cali,Valle,67,femenino,subsidiado,otro,13-oct-22,13-oct-22,6-sept-22,9-sept-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+263,9-oct-22,76262,Cali,Valle,35,femenino,subsidiado,otro,8-oct-22,8-oct-22,13-oct-22,13-oct-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+264,9-oct-22,76263,Cali,Valle,33,femenino,subsidiado,otro,8-oct-22,8-oct-22,16-ago-22,8-oct-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+265,9-oct-22,76264,Cali,Valle,35,femenino,subsidiado,otro,8-oct-22,8-oct-22,7-sept-22,9-oct-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+266,12-oct-22,76265,Cali,Valle,36,femenino,contributivo,otro,11-oct-22,1-feb-22,23-sept-22,23-sept-22,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+267,9-oct-22,76266,Cali,Valle,42,femenino,subsidiado,otro,8-oct-22,8-oct-22,6-sept-22,5-oct-22,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+268,14-oct-22,76267,Cali,Valle,29,femenino,subsidiado,otro,12-oct-22,12-oct-22,23-ago-22,26-ago-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+269,9-oct-22,76268,Cali,Valle,38,femenino,subsidiado,otro,8-oct-22,8-oct-22,18-jul-22,21-jul-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+270,9-oct-22,76269,Cali,Valle,26,femenino,subsidiado,otro,8-oct-22,8-oct-22,31-ago-22,1-sept-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+271,13-oct-22,76270,Cali,Valle,51,femenino,contributivo,otro,10-oct-22,22-mar-22,5-oct-22,10-oct-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+272,13-oct-22,76271,Cali,Valle,47,femenino,contributivo,otro,12-oct-22,1-jun-22,19-sept-22,19-sept-22,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+273,13-oct-22,76272,Cali,Valle,39,femenino,contributivo,otro,7-oct-22,7-oct-22,20-sept-22,26-sept-22,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+274,20-oct-22,76273,Cali,Valle,31,femenino,subsidiado,otro,19-oct-22,19-oct-22,26-jul-22,28-jul-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+275,18-oct-22,76274,Cali,Valle,45,femenino,contributivo,otro,14-oct-22,25-mar-22,25-mar-22,18-abr-22,no,#N/A,#N/A,si,positivo,infiltrante,27-mar-23,15-abr-23
+276,26-oct-22,76275,Cali,Valle,55,femenino,contributivo,otro,3-ene-22,1-ene-19,5-ago-21,11-ago-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+277,24-oct-22,76276,Cali,Valle,56,femenino,contributivo,otro,12-ago-22,3-mar-22,8-abr-22,5-may-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+278,24-oct-22,76277,Cali,Valle,57,femenino,contributivo,otro,22-oct-22,2-ago-22,14-oct-22,22-oct-22,no,#N/A,#N/A,si,positivo,in-situ,27-mar-23,15-abr-23
+279,25-oct-22,76278,Cali,Valle,48,femenino,subsidiado,otro,8-sept-22,5-sept-22,8-sept-22,13-sept-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+280,25-oct-22,76279,Cali,Valle,35,femenino,contributivo,otro,4-mar-22,21-feb-22,21-feb-22,10-mar-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+281,24-oct-22,76280,Cali,Valle,46,femenino,subsidiado,otro,9-sept-22,3-abr-22,11-jul-22,25-jul-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+282,28-oct-22,76281,Cali,Valle,31,femenino,contributivo,otro,18-oct-22,10-oct-22,18-oct-22,25-oct-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+283,25-oct-22,76282,Cali,Valle,47,femenino,contributivo,otro,24-oct-22,1-feb-22,8-sept-22,8-sept-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+284,26-oct-22,76283,Cali,Valle,66,femenino,subsidiado,otro,4-ene-22,4-ene-21,10-feb-21,16-feb-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+285,25-oct-22,76284,Cali,Valle,53,femenino,contributivo,otro,20-ene-22,20-ene-19,29-oct-21,5-nov-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+286,27-oct-22,76285,Cali,Valle,30,femenino,contributivo,otro,13-sept-22,13-sept-22,13-sept-22,15-sept-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+287,27-oct-22,76286,Cali,Valle,36,femenino,contributivo,otro,21-sept-22,21-sept-22,21-sept-22,26-sept-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+288,26-oct-22,76287,Cali,Valle,52,femenino,subsidiado,otro,5-ene-22,11-may-20,26-jul-21,2-ago-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+289,26-oct-22,76288,Cali,Valle,45,femenino,subsidiado,otro,22-oct-22,15-feb-22,22-ago-22,9-sept-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+290,26-oct-22,76289,Cali,Valle,33,femenino,contributivo,otro,26-oct-22,1-jul-21,18-oct-22,22-oct-22,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,27-mar-23,15-abr-23
+291,25-oct-22,76290,Cali,Valle,56,femenino,contributivo,otro,19-ene-22,19-may-21,31-ago-21,5-sept-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+292,25-oct-22,76291,Cali,Valle,80,femenino,no afiliado,otro,13-ene-22,13-sept-21,21-sept-21,26-sept-21,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,27-mar-23,15-abr-23
+293,25-oct-22,76292,Cali,Valle,42,femenino,contributivo,otro,4-oct-22,22-sept-22,5-oct-22,11-oct-22,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+294,25-oct-22,76293,Cali,Valle,25,femenino,contributivo,otro,29-sept-22,25-sept-22,26-sept-22,28-sept-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+295,24-oct-22,76294,Cali,Valle,34,femenino,contributivo,otro,11-sept-22,4-sept-22,16-sept-22,16-sept-22,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,27-mar-23,15-abr-23
+296,31-oct-22,76295,Cali,Valle,63,femenino,contributivo,otro,31-oct-22,31-ago-22,17-nov-22,17-nov-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+297,31-oct-22,76296,Cali,Valle,67,femenino,contributivo,otro,22-feb-22,20-ene-22,9-feb-22,24-feb-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+298,1-nov-22,76297,Cali,Valle,53,femenino,no afiliado,otro,31-oct-22,13-oct-22,13-oct-22,13-oct-22,no,#N/A,#N/A,si,positivo,infiltrante,27-mar-23,15-abr-23
+299,3-nov-22,76298,Cali,Valle,33,femenino,subsidiado,otro,27-sept-22,12-sept-22,18-oct-22,24-oct-22,si,carcinoma escamocelular,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+300,3-nov-22,76299,Cali,Valle,30,femenino,contributivo,otro,1-sept-22,28-mar-22,27-ago-22,13-sept-22,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,27-mar-23,15-abr-23
+301,3-nov-22,76300,Cali,Valle,41,femenino,subsidiado,otro,4-oct-22,9-ago-22,6-oct-22,7-oct-22,si,carcinoma escamocelular,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+302,3-nov-22,76301,Cali,Valle,26,femenino,subsidiado,otro,4-oct-22,23-ago-22,4-oct-22,7-oct-22,si,carcinoma escamocelular,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+303,4-nov-22,76302,Cali,Valle,33,femenino,contributivo,otro,3-nov-22,11-oct-22,11-oct-22,11-oct-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+304,11-nov-22,76303,Cali,Valle,48,femenino,subsidiado,otro,11-nov-22,11-nov-22,27-sept-22,30-sept-22,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+305,11-nov-22,76304,Cali,Valle,29,femenino,subsidiado,otro,11-nov-22,11-nov-22,27-oct-22,28-oct-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+306,19-nov-22,76305,Cali,Valle,39,femenino,contributivo,otro,19-nov-22,19-nov-22,25-oct-22,26-oct-22,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+307,19-nov-22,76306,Cali,Valle,40,femenino,contributivo,otro,19-nov-22,19-nov-22,2-may-22,4-may-22,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+308,19-nov-22,76307,Cali,Valle,41,femenino,subsidiado,otro,19-nov-22,19-nov-22,1-nov-22,2-nov-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+309,19-nov-22,76308,Cali,Valle,27,femenino,subsidiado,otro,19-nov-22,19-nov-22,27-oct-22,31-oct-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+310,19-nov-22,76309,Cali,Valle,33,femenino,subsidiado,otro,19-nov-22,19-nov-22,25-oct-22,27-oct-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+311,19-nov-22,76310,Cali,Valle,29,femenino,subsidiado,otro,19-nov-22,19-nov-22,22-ago-22,24-ago-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+312,19-nov-22,76311,Cali,Valle,28,femenino,subsidiado,otro,19-nov-22,19-nov-22,25-oct-22,26-oct-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+313,19-nov-22,76312,Cali,Valle,23,femenino,subsidiado,otro,19-nov-22,19-nov-22,4-oct-22,7-oct-22,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+314,19-nov-22,76313,Cali,Valle,32,femenino,subsidiado,otro,19-nov-22,19-nov-22,27-oct-22,31-oct-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+315,19-nov-22,76314,Cali,Valle,40,femenino,subsidiado,otro,19-nov-22,19-nov-22,27-oct-22,31-oct-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+316,19-nov-22,76315,Cali,Valle,36,femenino,subsidiado,otro,19-nov-22,19-nov-22,18-oct-22,20-oct-22,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+317,16-nov-22,76316,Cali,Valle,41,femenino,subsidiado,otro,16-nov-22,16-nov-22,13-oct-22,21-oct-22,no,#N/A,#N/A,si,positivo,no indicado,27-mar-23,15-abr-23
+318,24-nov-22,76317,Cali,Valle,50,femenino,contributivo,otro,14-oct-22,24-dic-21,24-dic-21,31-ene-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+319,23-nov-22,76318,Cali,Valle,28,femenino,contributivo,otro,15-sept-22,11-jun-22,11-jun-22,23-jun-22,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,27-mar-23,15-abr-23
+320,24-nov-22,76319,Cali,Valle,46,femenino,contributivo,otro,1-oct-22,10-jun-22,10-jun-22,22-jun-22,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,27-mar-23,15-abr-23
+321,24-nov-22,76320,Cali,Valle,29,femenino,contributivo,otro,23-nov-22,1-jul-22,10-nov-22,10-nov-22,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,27-mar-23,15-abr-23
+322,20-nov-22,76321,Cali,Valle,45,femenino,contributivo,otro,14-jun-22,2-mar-22,16-may-22,4-jun-22,no,#N/A,#N/A,si,positivo,infiltrante,27-mar-23,15-abr-23
+323,29-nov-22,76322,Cali,Valle,58,femenino,contributivo,otro,19-abr-22,1-abr-22,16-jun-22,11-jul-22,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,27-mar-23,15-abr-23
+324,30-nov-22,76323,Cali,Valle,35,femenino,contributivo,otro,29-nov-22,1-abr-22,10-nov-22,10-nov-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+325,28-nov-22,76324,Cali,Valle,33,femenino,contributivo,otro,24-nov-22,18-nov-22,11-nov-22,18-nov-22,no,#N/A,#N/A,si,positivo,infiltrante,27-mar-23,15-abr-23
+326,30-nov-22,76325,Cali,Valle,43,femenino,contributivo,otro,11-jul-22,14-jun-22,30-jul-22,17-ago-22,no,#N/A,#N/A,si,positivo,in-situ,27-mar-23,15-abr-23
+327,30-nov-22,76326,Cali,Valle,44,femenino,contributivo,otro,9-jun-22,28-ene-22,29-jul-22,17-ago-22,si,lei-ag,no indicado,si,positivo,in-situ,27-mar-23,15-abr-23
+328,30-nov-22,76327,Cali,Valle,45,femenino,subsidiado,otro,29-jun-22,28-feb-22,6-jun-22,8-jun-22,no,#N/A,#N/A,si,positivo,infiltrante,27-mar-23,15-abr-23
+329,30-nov-22,76328,Cali,Valle,39,femenino,contributivo,otro,13-jul-22,21-jun-22,29-jul-22,17-ago-22,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+330,29-nov-22,76329,Cali,Valle,73,femenino,contributivo,otro,16-abr-22,1-dic-21,5-may-22,19-may-22,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+331,29-nov-22,76330,Cali,Valle,78,femenino,contributivo,otro,16-mar-22,1-ene-22,7-may-22,12-may-22,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+332,1-dic-22,76331,Cali,Valle,52,femenino,contributivo,otro,7-oct-22,1-ago-22,16-sept-22,28-sept-22,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+333,2-dic-22,76332,Cali,Valle,37,femenino,contributivo,otro,4-oct-22,24-abr-22,17-sept-22,29-sept-22,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+334,28-nov-22,76333,Cali,Valle,38,femenino,contributivo,otro,24-nov-22,21-oct-22,21-oct-22,21-oct-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+335,30-nov-22,76334,Cali,Valle,49,femenino,contributivo,otro,6-jul-22,27-abr-22,23-jul-22,9-ago-22,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+336,30-nov-22,76335,Cali,Valle,46,femenino,contributivo,otro,24-ago-22,7-dic-21,22-jul-22,18-ago-22,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+337,1-dic-22,76336,Cali,Valle,32,femenino,contributivo,otro,8-jun-22,18-may-22,20-ago-22,2-sept-22,si,lei-ag,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+338,30-nov-22,76337,Cali,Valle,20,femenino,contributivo,otro,30-jun-22,28-abr-22,5-ago-22,18-ago-22,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+339,1-dic-22,76338,Cali,Valle,29,femenino,contributivo,otro,31-ago-22,4-may-22,3-sept-22,13-sept-22,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+340,30-nov-22,76339,Cali,Valle,31,femenino,contributivo,otro,12-jul-22,1-jun-22,22-jul-22,18-ago-22,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+341,29-nov-22,76340,Cali,Valle,27,femenino,contributivo,otro,27-abr-22,2-nov-21,20-may-22,13-jun-22,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+342,30-nov-22,76341,Cali,Valle,38,femenino,contributivo,otro,1-jun-22,17-may-22,23-jul-22,6-ago-22,si,carcinoma escamocelular,in-situ,si,positivo,no indicado,27-mar-23,15-abr-23
+343,29-nov-22,76342,Cali,Valle,30,femenino,contributivo,otro,22-mar-22,1-oct-21,3-may-22,5-may-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+344,1-dic-22,76343,Cali,Valle,34,femenino,contributivo,otro,21-jul-22,23-jun-22,22-ago-22,2-sept-22,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+345,1-dic-22,76344,Cali,Valle,30,femenino,contributivo,otro,7-sept-22,13-jul-22,23-ago-22,2-sept-22,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+346,1-dic-22,76345,Cali,Valle,38,femenino,contributivo,otro,29-sept-22,1-sept-22,12-sept-22,25-sept-22,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+347,1-dic-22,76346,Cali,Valle,32,femenino,contributivo,otro,30-jul-22,22-jul-22,17-sept-22,29-sept-22,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+348,1-dic-22,76347,Cali,Valle,24,femenino,contributivo,otro,12-jul-22,17-jun-22,2-sept-22,12-sept-22,si,lei-ag,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+349,29-nov-22,76348,Cali,Valle,63,femenino,contributivo,otro,6-sept-22,2-feb-22,20-ago-22,4-sept-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+350,28-nov-22,76349,Cali,Valle,52,femenino,contributivo,otro,5-sept-22,3-ene-22,11-jul-22,21-jul-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+351,30-nov-22,76350,Cali,Valle,50,femenino,subsidiado,otro,25-jul-22,25-oct-21,8-dic-21,20-ene-22,no,#N/A,#N/A,si,positivo,infiltrante,27-mar-23,15-abr-23
+352,5-dic-22,76351,Cali,Valle,34,femenino,contributivo,otro,5-dic-22,25-nov-22,25-nov-22,5-dic-22,si,lei-ag,no indicado,si,positivo,no indicado,27-mar-23,15-abr-23
+353,5-dic-22,76352,Cali,Valle,27,femenino,contributivo,otro,5-dic-22,25-nov-22,25-nov-22,5-dic-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+354,14-dic-22,76353,Cali,Valle,56,femenino,subsidiado,otro,17-ago-22,8-jul-22,25-oct-22,28-nov-22,si,lei-ag,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+355,14-dic-22,76354,Cali,Valle,58,femenino,subsidiado,otro,31-ago-22,8-ago-22,1-nov-22,28-nov-22,si,carcinoma escamocelular,in-situ,si,positivo,in-situ,27-mar-23,15-abr-23
+356,14-dic-22,76355,Cali,Valle,60,femenino,subsidiado,otro,26-oct-22,7-oct-22,1-nov-22,28-nov-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+357,12-dic-22,76356,Cali,Valle,27,femenino,contributivo,otro,1-dic-22,2-nov-22,2-nov-22,11-nov-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+358,14-dic-22,76357,Cali,Valle,32,femenino,subsidiado,otro,24-oct-22,6-oct-22,4-nov-22,28-nov-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+359,12-dic-22,76358,Cali,Valle,28,femenino,subsidiado,otro,19-sept-22,3-sept-22,28-oct-22,3-nov-22,si,lei-ag,no indicado,si,negativo,#N/A,27-mar-23,15-abr-23
+360,14-dic-22,76359,Cali,Valle,30,femenino,subsidiado,otro,21-oct-22,3-oct-22,1-nov-22,28-nov-22,si,lei-ag,in-situ,si,negativo,#N/A,27-mar-23,15-abr-23
+361,16-dic-22,76360,Cali,Valle,48,femenino,contributivo,afrocolombiano,7-dic-22,7-sept-22,10-nov-22,17-nov-22,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,27-mar-23,15-abr-23
+362,19-dic-22,76361,Cali,Valle,56,femenino,excepcion,otro,19-dic-22,9-dic-22,2-dic-22,7-dic-22,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,27-mar-23,15-abr-23
+363,21-dic-22,76362,Cali,Valle,68,femenino,contributivo,otro,20-dic-22,1-sept-22,14-dic-22,14-dic-22,no,#N/A,#N/A,si,positivo,no indicado,27-mar-23,15-abr-23
+364,21-dic-22,76363,Cali,Valle,37,femenino,contributivo,otro,20-dic-22,12-ago-22,28-nov-22,28-nov-22,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+365,29-dic-22,76364,Cali,Valle,48,femenino,subsidiado,otro,28-dic-22,1-oct-22,21-dic-22,21-dic-22,no,#N/A,#N/A,si,positivo,infiltrante,27-mar-23,15-abr-23
+366,27-dic-22,76365,Cali,Valle,40,femenino,contributivo,otro,26-dic-22,1-sept-22,4-dic-22,6-dic-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+367,31-dic-22,76366,Cali,Valle,77,femenino,contributivo,otro,31-dic-22,22-ago-22,8-sept-22,14-sept-22,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,27-mar-23,15-abr-23
+368,31-dic-22,76367,Cali,Valle,50,femenino,contributivo,otro,18-oct-22,1-ene-22,3-nov-22,17-nov-22,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,27-mar-23,15-abr-23
+369,29-dic-22,76368,Cali,Valle,58,femenino,subsidiado,afrocolombiano,2-dic-22,2-ago-22,18-nov-22,28-nov-22,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,27-mar-23,15-abr-23
+1,10-feb-21,76001,cali,valle ,26,,subsidiado,afrocolombiano,28-ene-21,1-ene-21,10-feb-21,10-feb-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+2,7-sept-21,76001,cali,valle ,74,,subsidiado,otro,19-may-21,31-mar-21,1-mar-21,31-mar-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+3,8-dic-21,76001,cali,valle ,52,,subsidiado,otro,25-ago-21,25-ago-21,1-jun-21,6-jun-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+4,5-nov-21,76001,cali,valle ,64,,subsidiado,otro,1-nov-21,27-ene-21,9-oct-21,2-nov-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+5,7-sept-21,76001,cali,valle ,28,,subsidiado,otro,5-feb-21,5-feb-21,9-ene-21,5-feb-21,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+6,7-sept-21,76001,cali,valle ,32,,subsidiado,otro,8-jun-21,3-feb-21,29-ene-21,3-feb-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+7,14-jul-21,76001,cali,valle ,26,,subsidiado,indigena ,1-jul-21,1-jul-21,1-jul-21,7-jul-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+8,6-dic-21,76001,cali,valle ,38,,subsidiado,otro,9-ago-21,24-jun-21,24-jun-21,8-jul-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+9,15-mar-21,76001,cali,valle ,41,,subsidiado,otro,10-mar-21,9-feb-20,8-ene-21,14-ene-21,no,#N/A,#N/A,si,negativo,#N/A,8-abr-22,8-abr-22
+10,9-jun-21,76001,cali,valle ,31,,subsidiado,otro,16-abr-21,17-mar-21,25-may-21,9-jun-21,si,carcinoma escamocelular,in-situ,si,positivo,in-situ,8-abr-22,8-abr-22
+11,14-ene-21,76001,cali,valle ,37,,subsidiado,otro,18-nov-20,30-oct-20,29-dic-20,14-ene-21,si,carcinoma escamocelular,in-situ,si,positivo,in-situ,8-abr-22,8-abr-22
+12,18-nov-21,76001,cali,valle ,52,,subsidiado,otro,21-sept-21,25-ago-21,22-oct-21,4-nov-21,si,lei-ag,in-situ,si,positivo,in-situ,8-abr-22,8-abr-22
+13,7-abr-21,76001,cali,valle ,32,,subsidiado,otro,8-feb-21,28-ene-21,23-mar-21,31-mar-21,si,carcinoma escamocelular,in-situ,si,positivo,in-situ,8-abr-22,8-abr-22
+14,25-jun-21,76001,cali,valle ,32,,subsidiado,otro,12-abr-21,23-mar-21,11-jun-21,23-jun-21,si,carcinoma escamocelular,in-situ,si,positivo,in-situ,8-abr-22,8-abr-22
+15,29-dic-21,76001,cali,valle ,30,,subsidiado,otro,16-sept-21,16-sept-21,2-nov-21,18-nov-21,si,lei-ag,in-situ,si,positivo,in-situ,8-abr-22,8-abr-22
+16,24-jun-21,76001,cali,valle ,63,,subsidiado,afrocolombiano,24-jun-21,24-ene-21,5-mar-21,11-mar-21,no,#N/A,#N/A,si,positivo,in-situ,8-abr-22,8-abr-22
+17,27-jul-21,76001,cali,valle ,63,,subsidiado,otro,15-jun-21,9-feb-21,7-mar-21,23-mar-21,no,#N/A,#N/A,si,positivo,in-situ,8-abr-22,8-abr-22
+18,26-abr-21,76001,cali,valle ,29,,subsidiado,otro,22-abr-21,18-mar-21,18-mar-21,14-abr-21,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,8-abr-22,8-abr-22
+19,1-sept-21,76001,cali,valle ,43,,subsidiado,otro,1-sept-21,1-sept-21,1-sept-21,8-sept-21,si,lei-ag,no indicado,si,positivo,infiltrante,8-abr-22,8-abr-22
+20,5-oct-21,76001,cali,valle ,23,,subsidiado,otro,28-jul-21,23-jul-21,14-sept-21,27-sept-21,si,lei-ag,in-situ,si,positivo,infiltrante,8-abr-22,8-abr-22
+21,14-oct-21,76001,cali,valle ,62,,subsidiado,otro,14-oct-21,14-feb-21,26-ago-21,7-sept-21,no,#N/A,#N/A,si,positivo,infiltrante,8-abr-22,8-abr-22
+22,27-dic-21,76001,cali,valle ,53,,subsidiado,otro,13-dic-21,12-dic-18,14-dic-21,27-dic-21,no,#N/A,#N/A,si,positivo,infiltrante,8-abr-22,8-abr-22
+23,15-dic-21,76001,cali,valle ,68,,subsidiado,otro,13-dic-21,26-nov-21,26-nov-21,13-dic-21,no,#N/A,#N/A,si,positivo,infiltrante,8-abr-22,8-abr-22
+24,30-ago-21,76001,cali,valle ,68,,subsidiado,otro,19-ago-21,17-may-21,16-jun-21,16-jun-21,no,#N/A,#N/A,si,positivo,infiltrante,8-abr-22,8-abr-22
+25,23-abr-21,76001,cali,valle ,56,,subsidiado,otro,22-abr-21,6-abr-21,7-abr-21,22-abr-21,no,#N/A,#N/A,si,positivo,infiltrante,8-abr-22,8-abr-22
+26,15-sept-21,76001,cali,valle ,66,,subsidiado,otro,15-sept-21,15-sept-21,15-sept-21,23-sept-21,si,carcinoma escamocelular,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+27,14-dic-21,76001,cali,valle ,56,,subsidiado,otro,14-dic-21,29-nov-21,29-nov-21,13-dic-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+28,20-dic-21,76001,cali,valle ,44,,subsidiado,otro,20-dic-21,13-oct-21,13-oct-21,25-oct-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+29,9-jul-21,76001,cali,valle ,30,,subsidiado,otro,8-jul-21,26-may-21,26-jun-21,29-jun-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+30,22-sept-21,76001,cali,valle ,60,,subsidiado,otro,21-sept-21,1-feb-19,25-may-21,10-jun-21,no,#N/A,#N/A,si,positivo,no indicado,8-abr-22,8-abr-22
+31,6-oct-21,76001,cali,valle ,41,,subsidiado,otro,6-oct-21,14-sept-21,14-sept-21,17-sept-21,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,8-abr-22,8-abr-22
+32,25-feb-21,76001,cali,valle ,51,,subsidiado,otro,25-feb-21,25-feb-21,25-feb-21,2-mar-21,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,8-abr-22,8-abr-22
+33,29-dic-21,76001,cali,valle ,38,,subsidiado,afrocolombiano,24-sept-21,24-sept-21,2-nov-21,18-nov-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+34,21-oct-21,76001,cali,valle ,61,,subsidiado,otro,31-ago-21,31-ago-21,28-sept-21,9-oct-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+35,15-oct-21,76001,cali,valle ,57,,subsidiado,otro,15-oct-21,15-oct-21,15-oct-21,26-oct-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+36,18-jun-21,76001,cali,valle ,65,,subsidiado,otro,18-jun-21,21-may-21,18-jun-21,20-jun-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+37,4-nov-21,76001,cali,valle ,64,,subsidiado,otro,4-nov-21,4-nov-21,28-sept-21,29-sept-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+38,18-feb-21,76001,cali,valle ,38,,subsidiado,otro,18-feb-21,18-feb-21,18-feb-21,23-feb-21,si,carcinoma escamocelular,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+39,16-dic-21,76001,cali,valle ,38,,subsidiado,otro,16-dic-21,1-dic-21,1-dic-21,9-dic-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+40,3-nov-21,76001,cali,valle ,38,,subsidiado,otro,3-nov-21,13-oct-21,13-oct-21,22-oct-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+41,22-dic-21,76001,cali,valle ,61,,subsidiado,otro,5-nov-21,27-sept-21,16-nov-21,27-nov-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+42,9-abr-21,76001,cali,valle ,42,,subsidiado,otro,9-abr-21,9-abr-21,9-abr-21,14-abr-21,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,8-abr-22,8-abr-22
+43,14-dic-21,76001,cali,valle ,58,,subsidiado,otro,14-dic-21,14-dic-21,14-dic-21,22-dic-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+44,13-sept-21,76001,cali,valle ,39,,subsidiado,otro,13-sept-21,13-sept-21,13-sept-21,14-oct-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+45,11-nov-21,76001,cali,valle ,36,,subsidiado,otro,11-nov-21,11-nov-21,11-nov-21,18-nov-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+46,5-oct-21,76001,cali,valle ,41,,subsidiado,otro,15-sept-21,10-ago-21,21-sept-21,28-sept-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+47,18-mar-21,76001,cali,valle ,70,,subsidiado,otro,18-mar-21,10-mar-21,18-mar-21,25-mar-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+48,6-dic-21,76001,cali,valle ,51,,subsidiado,otro,6-dic-21,6-dic-21,6-dic-21,14-dic-21,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,8-abr-22,8-abr-22
+49,29-oct-21,76001,cali,valle ,47,,subsidiado,otro,29-oct-21,29-oct-21,14-oct-21,19-oct-21,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,8-abr-22,8-abr-22
+50,16-jun-21,76001,cali,valle ,47,,subsidiado,otro,16-may-21,13-may-21,16-jun-21,18-jun-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+51,10-nov-21,76001,cali,valle ,51,,subsidiado,otro,29-oct-21,29-oct-21,29-oct-21,4-nov-21,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,8-abr-22,8-abr-22
+52,16-mar-21,76001,cali,valle ,33,,subsidiado,otro,16-mar-21,16-mar-21,16-mar-21,22-abr-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+53,5-oct-21,76001,cali,valle ,38,,subsidiado,otro,5-oct-21,5-oct-21,5-oct-21,7-oct-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+54,11-nov-21,76001,cali,valle ,36,,subsidiado,otro,11-nov-21,11-nov-21,11-nov-21,18-nov-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+55,20-dic-21,76001,cali,valle ,28,,subsidiado,otro,20-dic-21,2-dic-21,2-dic-21,9-dic-21,si,lei-ag,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+56,14-dic-21,76001,cali,valle ,26,,subsidiado,otro,14-dic-21,30-nov-21,30-nov-21,3-dic-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+57,27-ene-21,76001,cali,valle ,27,,subsidiado,otro,27-ene-21,27-ene-21,27-ene-21,1-feb-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+58,30-jun-21,76001,cali,valle ,45,,subsidiado,otro,23-jun-21,8-may-21,8-may-21,8-may-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+59,23-mar-21,76001,cali,valle ,56,,subsidiado,otro,23-mar-21,23-mar-21,23-mar-21,29-abr-21,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,8-abr-22,8-abr-22
+60,19-ago-21,76001,cali,valle ,32,,subsidiado,otro,18-ago-21,1-abr-21,30-jun-21,30-jun-21,si,carcinoma escamocelular,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+61,26-abr-21,76001,cali,valle ,27,,subsidiado,otro,23-abr-21,9-abr-21,9-abr-21,9-abr-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+62,12-ene-21,76001,cali,valle ,61,,subsidiado,otro,30-nov-20,25-jul-19,29-nov-20,8-ene-21,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+63,29-dic-21,76001,cali,valle ,44,,subsidiado,otro,22-oct-21,22-oct-21,2-nov-21,23-nov-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+64,3-dic-21,76001,cali,valle ,88,,subsidiado,otro,30-nov-21,24-abr-21,1-abr-21,21-abr-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+65,16-jun-21,76001,cali,valle ,65,,subsidiado,otro,16-jun-21,7-ene-21,7-ene-21,7-ene-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+66,13-jul-21,76001,cali,valle ,43,,subsidiado,otro,29-jun-21,1-nov-19,3-jul-21,8-jul-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+67,12-jul-21,76001,cali,valle ,38,,subsidiado,otro,9-jul-21,3-jun-21,21-jun-21,29-jun-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+68,28-ene-21,76001,cali,valle ,68,,subsidiado,otro,28-ene-21,28-nov-20,29-ene-21,5-feb-21,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+69,10-feb-21,76001,cali,valle ,64,,subsidiado,otro,10-feb-21,10-feb-21,10-feb-21,16-feb-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+70,13-mar-21,76001,cali,valle ,39,,subsidiado,otro,12-mar-21,4-feb-21,4-feb-21,2-mar-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+71,26-abr-21,76001,cali,valle ,61,,subsidiado,otro,22-abr-21,9-mar-21,9-mar-21,5-abr-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+72,6-ene-21,76001,cali,valle ,59,,subsidiado,otro,5-ene-21,17-dic-20,19-dic-20,6-ene-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+73,5-ene-21,76001,cali,valle ,58,,subsidiado,otro,5-ene-21,5-ene-21,5-ene-21,7-ene-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+74,22-oct-21,76001,cali,valle ,62,,subsidiado,otro,22-oct-21,22-oct-21,22-oct-21,27-oct-21,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,8-abr-22,8-abr-22
+75,26-ago-21,76001,cali,valle ,60,,subsidiado,afrocolombiano,26-ago-21,26-ago-21,26-ago-21,26-ago-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+76,12-feb-21,76001,cali,valle ,55,,subsidiado,otro,12-feb-21,12-feb-21,12-feb-21,18-feb-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+77,22-jul-21,76001,cali,valle ,41,,subsidiado,otro,21-jul-21,1-mar-21,8-jul-21,8-jul-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+78,2-jul-21,76001,cali,valle ,41,,subsidiado,otro,1-jul-21,10-jun-21,10-jun-21,26-jun-21,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+79,22-sept-21,76001,cali,valle ,53,,subsidiado,otro,22-sept-21,3-mar-21,27-may-21,27-jun-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+80,22-sept-21,76001,cali,valle ,45,,subsidiado,otro,19-sept-21,3-mar-21,7-sept-21,19-sept-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+81,19-jul-21,76001,cali,valle ,50,,subsidiado,otro,19-jul-21,19-jul-21,19-jul-21,22-jul-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+82,6-dic-21,76001,cali,valle ,51,,subsidiado,otro,3-dic-21,3-sept-21,2-nov-21,5-nov-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+83,1-jul-21,76001,cali,valle ,49,,subsidiado,otro,1-jul-21,1-jul-21,1-jul-21,9-jul-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+84,13-abr-21,76001,cali,valle ,47,,subsidiado,otro,9-abr-21,24-feb-21,23-mar-21,31-mar-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+85,13-jul-21,76001,cali,valle ,45,,subsidiado,otro,9-jul-21,8-jun-21,1-jul-21,9-jul-21,si,lei-ag,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+86,27-mar-21,76001,cali,valle ,46,,subsidiado,otro,27-mar-21,6-feb-20,27-mar-21,28-mar-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+87,5-oct-21,76001,cali,valle ,44,,subsidiado,otro,31-ago-21,15-jul-21,14-sept-21,28-sept-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+88,27-ene-21,76001,cali,valle ,47,,subsidiado,otro,27-ene-21,27-ene-21,27-ene-21,1-feb-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+89,14-jun-21,76001,cali,valle ,35,,subsidiado,otro,10-jun-21,24-ene-21,24-ene-21,24-ene-21,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+90,10-feb-21,76001,cali,valle ,24,,subsidiado,otro,10-feb-21,10-feb-21,10-feb-21,16-feb-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+91,19-jul-21,76001,cali,valle ,29,,subsidiado,otro,19-jul-21,19-jul-21,19-jul-21,30-jul-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+92,15-dic-21,76001,cali,valle ,22,,subsidiado,otro,13-dic-21,30-nov-21,30-nov-21,13-dic-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+93,2-jul-21,76001,cali,valle ,28,,subsidiado,otro,1-jul-21,21-jun-21,21-jun-21,28-jun-21,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,8-abr-22,8-abr-22
+94,27-feb-21,76001,cali,valle ,30,,subsidiado,otro,25-feb-21,14-dic-20,9-feb-21,15-feb-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+95,11-feb-21,76001,cali,valle ,28,,subsidiado,otro,11-feb-21,11-feb-21,11-feb-21,16-feb-21,si,lei-ag,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+96,26-mar-21,76001,cali,valle ,36,,subsidiado,otro,25-mar-21,15-feb-21,9-feb-21,15-feb-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+97,7-dic-21,76001,cali,valle ,29,,subsidiado,otro,4-dic-21,29-nov-21,29-nov-21,1-dic-21,si,lei-ag,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+98,17-mar-21,76001,cali,valle ,37,,subsidiado,otro,17-mar-21,19-sept-18,17-mar-21,17-mar-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+99,17-abr-21,76001,cali,valle ,31,,subsidiado,otro,14-feb-21,1-dic-20,4-ene-21,4-ene-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+100,13-ene-21,76001,cali,valle ,23,,subsidiado,otro,2-dic-20,18-nov-20,22-dic-20,8-ene-21,si,carcinoma escamocelular,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+101,22-abr-21,76001,cali,valle ,33,,subsidiado,otro,22-abr-21,22-abr-21,22-abr-21,8-jul-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+102,5-mar-21,76001,cali,valle ,24,,subsidiado,otro,5-mar-21,5-mar-21,5-mar-21,17-mar-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+103,22-nov-21,76001,cali,valle ,30,,subsidiado,otro,19-nov-21,6-oct-21,29-oct-21,3-nov-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+104,25-nov-21,76001,cali,valle ,35,,subsidiado,otro,25-nov-21,25-nov-21,25-nov-21,2-dic-21,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,8-abr-22,8-abr-22
+105,20-dic-21,76001,cali,valle ,33,,subsidiado,otro,20-dic-21,2-dic-21,2-dic-21,9-dic-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+106,16-jun-21,76001,cali,valle ,36,,subsidiado,otro,19-may-21,18-may-21,28-may-21,15-jun-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+107,25-ene-21,76001,cali,valle ,33,,subsidiado,otro,25-ene-21,25-ene-21,25-ene-21,27-ene-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+108,28-jul-21,76001,cali,valle ,33,,subsidiado,otro,1-jun-21,1-jun-21,6-jul-21,16-jul-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+109,26-jul-21,76001,cali,valle ,33,,subsidiado,otro,26-jul-21,26-jul-21,24-ago-21,27-ago-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+110,10-mar-21,76001,cali,valle ,34,,subsidiado,otro,10-mar-21,10-mar-21,10-mar-21,15-mar-21,si,lei-ag,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+111,29-dic-21,76001,cali,valle ,36,,subsidiado,otro,14-sept-21,14-sept-21,2-nov-21,18-nov-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+112,15-feb-21,76001,cali,valle ,23,,subsidiado,otro,12-feb-21,25-nov-20,26-ene-21,3-feb-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+113,15-feb-21,76001,cali,valle ,31,,subsidiado,otro,12-feb-21,1-dic-20,26-ene-21,2-feb-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+114,16-sept-21,76001,cali,valle ,28,,subsidiado,otro,13-sept-21,30-ago-21,30-ago-21,13-sept-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+115,20-may-21,76001,cali,valle ,32,,subsidiado,otro,20-may-21,20-may-21,20-may-21,21-may-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+116,2-ago-21,76001,cali,valle ,30,,subsidiado,otro,2-ago-21,2-ago-21,2-ago-21,6-ago-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+117,3-sept-21,76001,cali,valle ,31,,subsidiado,otro,2-sept-21,22-jun-21,17-ago-21,24-ago-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+118,3-jun-21,76001,cali,valle ,27,,subsidiado,otro,3-jun-21,3-jun-21,3-jun-21,4-jun-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+119,30-nov-21,76001,cali,valle ,35,,subsidiado,otro,30-nov-21,20-sept-21,14-nov-21,29-nov-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+120,7-dic-21,76001,cali,valle ,24,,subsidiado,otro,7-dic-21,23-nov-21,23-nov-21,1-dic-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+121,10-ago-21,76001,cali,valle ,23,,subsidiado,otro,10-ago-21,10-ago-21,10-ago-21,12-ago-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+122,23-dic-21,76001,cali,valle ,59,,subsidiado,otro,21-dic-21,26-abr-21,3-dic-21,20-dic-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+123,10-sept-21,76001,cali,valle ,31,,subsidiado,otro,17-ago-21,17-ago-21,24-ago-21,5-sept-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+124,6-dic-21,76001,cali,valle ,30,,subsidiado,otro,25-oct-21,25-oct-21,15-nov-21,22-nov-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+125,28-jul-21,76001,cali,valle ,48,,subsidiado,otro,13-may-21,13-mar-21,18-mar-21,18-mar-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+126,18-mar-21,76001,cali,valle ,45,,subsidiado,otro,17-mar-21,5-mar-21,5-mar-21,17-mar-21,no,#N/A,#N/A,no,#N/A,#N/A,8-abr-22,8-abr-22
+127,3-dic-21,76001,cali,valle ,29,,contributivo,otro,30-nov-21,22-sept-21,30-mar-21,22-sept-21,no,#N/A,#N/A,si,positivo,infiltrante,8-abr-22,8-abr-22
+128,17-feb-21,76001,cali,valle ,36,,contributivo,afrocolombiano,8-feb-21,1-ene-21,4-feb-21,10-feb-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+129,30-sept-21,76001,cali,valle ,43,,contributivo,otro,24-sept-21,21-ene-21,21-jun-21,21-jun-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+130,14-ene-21,76001,cali,valle ,42,,contributivo,otro,14-ene-21,14-ene-21,14-ene-21,19-ene-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+131,30-ago-21,76001,cali,valle ,47,,contributivo,otro,28-jun-21,28-ene-21,27-mar-21,27-mar-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+132,24-may-21,76001,cali,valle ,32,,contributivo,otro,24-may-21,24-may-21,24-may-21,25-may-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+133,24-mar-21,76001,cali,valle ,29,,contributivo,otro,24-mar-21,24-mar-21,24-mar-21,29-mar-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+134,25-jun-21,76001,cali,valle ,77,,subsidiado,otro,24-jun-21,27-may-21,19-may-21,24-may-21,no,#N/A,#N/A,si,positivo,in-situ,8-abr-22,8-abr-22
+135,18-mar-21,76001,cali,valle ,61,,subsidiado,otro,18-mar-21,5-mar-21,5-mar-21,17-mar-21,no,#N/A,#N/A,si,positivo,infiltrante,8-abr-22,8-abr-22
+136,29-mar-21,76001,cali,valle ,42,,subsidiado,otro,28-mar-21,25-mar-21,22-ene-21,12-feb-21,no,#N/A,#N/A,si,positivo,infiltrante,8-abr-22,8-abr-22
+137,15-sept-21,76001,cali,valle ,48,,subsidiado,otro,13-sept-21,1-ene-21,3-sept-21,13-sept-21,no,#N/A,#N/A,si,positivo,infiltrante,8-abr-22,8-abr-22
+138,25-oct-21,76001,cali,valle ,73,,subsidiado,otro,22-oct-21,1-jul-21,13-ago-21,13-ago-21,no,#N/A,#N/A,si,positivo,no indicado,8-abr-22,8-abr-22
+139,7-sept-21,76001,cali,valle ,49,,subsidiado,otro,5-sept-21,23-jul-21,23-jul-21,31-ago-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+140,8-dic-21,76001,cali,valle ,53,,subsidiado,otro,19-ago-21,19-ago-21,1-ago-21,3-ago-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+141,4-oct-21,76001,cali,valle ,41,,subsidiado,otro,12-jul-21,24-jun-21,24-jun-21,12-jul-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+142,15-sept-21,76001,cali,valle ,30,,subsidiado,otro,13-sept-21,13-sept-21,6-sept-21,13-sept-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+143,7-abr-21,76001,cali,valle ,48,,subsidiado,otro,6-abr-21,6-abr-21,1-feb-21,9-feb-21,no,#N/A,#N/A,no,#N/A,#N/A,8-abr-22,8-abr-22
+144,8-sept-21,76001,cali,valle ,58,,contributivo,otro,9-jun-21,11-may-21,26-abr-21,11-may-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+145,16-abr-21,76001,cali,valle ,37,,contributivo,otro,14-abr-21,14-abr-21,29-mar-21,29-mar-21,si,carcinoma escamocelular,in-situ,si,positivo,in-situ,8-abr-22,8-abr-22
+146,8-nov-21,76001,cali,valle ,47,,contributivo,otro,3-nov-21,3-nov-21,1-oct-21,10-oct-21,si,carcinoma escamocelular,in-situ,si,positivo,in-situ,8-abr-22,8-abr-22
+147,21-jun-21,76001,cali,valle ,46,,contributivo,otro,4-may-21,1-ene-20,3-mar-21,13-mar-21,si,carcinoma escamocelular,no indicado,si,positivo,in-situ,8-abr-22,8-abr-22
+148,9-ago-21,76001,cali,valle ,44,,contributivo,otro,4-ago-21,1-feb-21,17-jul-21,31-jul-21,si,carcinoma escamocelular,in-situ,si,positivo,in-situ,8-abr-22,8-abr-22
+149,25-oct-21,76001,cali,valle ,39,,contributivo,otro,14-oct-21,25-ago-21,25-ago-21,25-ago-21,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,8-abr-22,8-abr-22
+150,21-abr-21,76001,cali,valle ,37,,contributivo,otro,25-mar-21,1-mar-21,25-mar-21,1-abr-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+151,10-feb-21,76001,cali,valle ,37,,contributivo,otro,27-ene-21,1-ene-21,27-ene-21,10-feb-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+152,30-abr-21,76001,cali,valle ,38,,contributivo,otro,21-abr-21,5-abr-21,5-abr-21,5-abr-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+153,31-mar-21,76001,cali,valle ,28,,contributivo,otro,4-mar-21,4-mar-21,4-mar-21,4-mar-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+154,10-feb-21,76001,cali,valle ,32,,contributivo,otro,28-ene-17,1-ene-17,28-ene-21,10-feb-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+155,21-abr-21,76001,cali,valle ,32,,contributivo,afrocolombiano,25-mar-21,1-mar-21,25-mar-21,1-abr-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+156,31-mar-21,76001,cali,valle ,27,,contributivo,otro,15-mar-21,1-feb-21,15-mar-21,20-mar-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+157,3-feb-21,76001,cali,valle ,18,,contributivo,otro,25-ene-21,1-ene-21,3-feb-21,3-feb-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+158,26-mar-21,76001,cali,valle ,64,,contributivo,afrocolombiano,27-feb-21,5-abr-20,27-feb-21,4-mar-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+159,9-feb-21,76001,cali,valle ,35,,contributivo,otro,8-feb-21,29-ene-21,29-ene-21,4-feb-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+160,22-sept-21,76001,cali,valle ,37,,contributivo,otro,24-mar-21,10-feb-21,10-mar-21,10-mar-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+161,21-jun-21,76001,cali,valle ,40,,contributivo,otro,21-abr-21,1-nov-20,11-mar-21,23-mar-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+162,25-oct-21,76001,cali,valle ,58,,contributivo,otro,21-oct-21,15-ago-21,9-sept-21,9-sept-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+163,22-ene-21,76001,cali,valle ,66,,contributivo,otro,20-ene-21,30-dic-20,30-dic-20,12-ene-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+164,26-mar-21,76001,cali,valle ,37,,contributivo,otro,25-feb-21,21-ene-21,11-feb-21,17-feb-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+165,29-sept-21,76001,cali,valle ,43,,contributivo,otro,30-jul-21,1-ene-21,30-jul-21,4-ago-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+166,26-mar-21,76001,cali,valle ,51,,contributivo,otro,19-mar-21,5-dic-19,29-ene-21,4-feb-21,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+167,29-nov-21,76001,cali,valle ,25,,contributivo,otro,25-nov-21,25-ene-21,12-nov-21,12-nov-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+168,9-ago-21,76001,cali,valle ,32,,subsidiado,otro,4-ago-21,1-abr-21,2-jul-21,2-jul-21,si,carcinoma escamocelular,in-situ,si,positivo,in-situ,8-abr-22,8-abr-22
+169,13-jul-21,76001,cali,valle ,45,,subsidiado,otro,1-jul-21,15-may-21,10-jun-21,21-jun-21,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,8-abr-22,8-abr-22
+170,22-nov-21,76001,cali,valle ,76,,subsidiado,otro,17-nov-21,1-oct-21,3-nov-21,11-nov-21,si,carcinoma escamocelular,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+171,19-ago-21,76001,cali,valle ,65,,subsidiado,otro,5-ago-21,15-jul-21,15-jul-21,15-jul-21,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,8-abr-22,8-abr-22
+172,9-dic-21,76001,cali,valle ,54,,subsidiado,otro,9-dic-21,9-dic-21,9-dic-21,15-dic-21,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,8-abr-22,8-abr-22
+173,14-jul-21,76001,cali,valle ,51,,subsidiado,otro,21-jun-21,21-jun-21,26-jun-21,2-jul-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+174,7-sept-21,76001,cali,valle ,41,,contributivo,otro,4-sept-21,1-mar-20,13-ago-21,19-ago-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+175,26-mar-21,76001,cali,valle ,37,,subsidiado,otro,23-mar-21,20-nov-20,2-feb-21,8-feb-21,no,#N/A,#N/A,si,positivo,infiltrante,8-abr-22,8-abr-22
+176,7-dic-21,76001,cali,valle ,40,,contributivo,otro,6-dic-21,19-nov-21,19-oct-21,19-oct-21,no,#N/A,#N/A,si,positivo,infiltrante,8-abr-22,8-abr-22
+177,20-dic-21,76001,cali,valle ,39,,contributivo,otro,18-dic-21,18-dic-21,27-sept-21,27-sept-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+178,16-abr-21,76001,cali,valle ,40,,contributivo,otro,31-mar-21,28-feb-21,12-mar-21,12-mar-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+179,21-jun-21,76001,cali,valle ,40,,contributivo,otro,18-mar-21,1-nov-20,14-ene-21,22-ene-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+180,3-dic-21,76001,cali,valle ,40,,contributivo,otro,1-dic-21,2-sept-21,2-sept-21,15-oct-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+181,2-dic-21,76001,cali,valle ,40,,contributivo,otro,11-oct-21,11-oct-21,9-nov-21,26-nov-21,si,carcinoma escamocelular,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+182,6-dic-21,76001,cali,valle ,43,,contributivo,otro,1-dic-21,19-nov-21,16-nov-21,16-nov-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+183,20-dic-21,76001,cali,valle ,35,,contributivo,otro,7-oct-21,1-ene-21,7-oct-21,7-oct-21,si,lei-ag,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+184,24-nov-21,76001,cali,valle ,35,,contributivo,otro,17-nov-21,19-oct-21,17-nov-21,23-nov-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+185,6-dic-21,76001,cali,valle ,31,,contributivo,otro,3-dic-21,23-nov-21,23-nov-21,29-nov-21,si,lei-ag,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+186,29-abr-21,76001,cali,valle ,35,,contributivo,otro,26-abr-21,20-abr-21,20-abr-21,20-abr-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+187,2-jul-21,76001,cali,valle ,47,,subsidiado,otro,1-jul-21,17-jun-21,17-jun-21,25-jun-21,no,#N/A,#N/A,si,positivo,infiltrante,8-abr-22,8-abr-22
+188,5-nov-21,76001,cali,valle ,36,,subsidiado,otro,31-oct-21,7-jul-21,27-jul-21,2-nov-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+189,9-nov-21,76001,cali,valle ,37,,contributivo,otro,29-oct-21,26-oct-21,20-oct-21,26-oct-21,no,#N/A,#N/A,si,positivo,no indicado,8-abr-22,8-abr-22
+190,24-jun-21,76001,cali,valle ,38,,contributivo,otro,23-jun-21,15-jun-21,15-jun-21,18-jun-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+191,9-jun-21,76001,cali,valle ,24,,subsidiado,otro,9-jun-21,7-ene-21,25-mar-21,5-abr-21,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+192,25-ago-21,76001,cali,valle ,36,,subsidiado,otro,25-ago-21,25-ago-21,25-ago-21,2-sept-21,si,lei-ag,no indicado,si,positivo,in-situ,8-abr-22,8-abr-22
+193,4-ene-21,76001,cali,valle ,37,,subsidiado,otro,4-ene-21,4-ene-21,4-ene-21,8-ene-21,si,lei-ag,in-situ,si,positivo,in-situ,8-abr-22,8-abr-22
+194,8-oct-21,76001,cali,valle ,36,,subsidiado,otro,8-oct-21,8-oct-21,8-oct-21,8-oct-21,si,carcinoma escamocelular,no indicado,si,positivo,in-situ,8-abr-22,8-abr-22
+195,25-dic-21,76001,cali,valle ,31,,subsidiado,otro,2-sept-21,1-jul-21,22-sept-21,25-oct-21,si,carcinoma escamocelular,in-situ,si,positivo,in-situ,8-abr-22,8-abr-22
+196,21-ago-21,76001,cali,valle ,33,,subsidiado,otro,26-jul-21,26-mar-21,27-jul-21,12-ago-21,no,#N/A,#N/A,si,positivo,in-situ,8-abr-22,8-abr-22
+197,23-jun-21,76001,cali,valle ,53,,subsidiado,otro,23-jun-21,23-jun-21,23-jun-21,24-jun-21,si,lei-ag,no indicado,si,positivo,infiltrante,8-abr-22,8-abr-22
+198,6-ago-21,76001,cali,valle ,66,,subsidiado,otro,6-ago-21,15-jul-21,15-jul-21,19-jul-21,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,8-abr-22,8-abr-22
+199,28-ago-21,76001,cali,valle ,78,,subsidiado,otro,4-may-21,1-abr-21,5-ago-21,20-ago-21,no,#N/A,#N/A,si,positivo,infiltrante,8-abr-22,8-abr-22
+200,24-feb-21,76001,cali,valle ,41,,subsidiado,otro,23-feb-21,3-feb-21,3-feb-21,23-feb-21,no,#N/A,#N/A,si,positivo,infiltrante,8-abr-22,8-abr-22
+201,7-sept-21,76001,cali,valle ,67,,subsidiado,otro,5-sept-21,7-jun-21,7-jun-21,3-sept-21,no,#N/A,#N/A,si,positivo,infiltrante,8-abr-22,8-abr-22
+202,6-abr-21,76001,cali,valle ,46,,subsidiado,otro,30-mar-21,18-mar-21,18-mar-21,29-mar-21,no,#N/A,#N/A,si,positivo,infiltrante,8-abr-22,8-abr-22
+203,28-ago-21,76001,cali,valle ,50,,subsidiado,otro,4-jun-21,10-jun-20,3-ago-21,20-ago-21,no,#N/A,#N/A,si,positivo,infiltrante,8-abr-22,8-abr-22
+204,29-sept-21,76001,cali,valle ,51,,subsidiado,otro,26-sept-21,11-sept-21,14-sept-21,26-sept-21,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+205,5-jun-21,76001,cali,valle ,43,,subsidiado,otro,10-mar-21,10-feb-21,15-feb-21,15-mar-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+206,3-feb-21,76001,cali,valle ,65,,subsidiado,otro,3-feb-21,3-feb-21,3-feb-21,8-feb-21,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,8-abr-22,8-abr-22
+207,27-mar-21,76001,cali,valle ,61,,subsidiado,otro,27-mar-21,27-mar-21,27-mar-21,7-abr-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+208,28-ene-21,76001,cali,valle ,38,,subsidiado,otro,28-ene-21,28-ene-21,28-ene-21,1-feb-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+209,10-mar-21,76001,cali,valle ,60,,subsidiado,otro,10-mar-21,10-mar-21,10-mar-21,15-mar-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+210,29-oct-21,76001,cali,valle ,60,,subsidiado,otro,29-oct-21,29-oct-21,29-oct-21,3-nov-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+211,2-dic-21,76001,cali,valle ,58,,subsidiado,otro,2-dic-21,2-dic-21,2-dic-21,6-dic-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+212,1-sept-21,76001,cali,valle ,78,,subsidiado,otro,30-ago-21,6-ene-21,6-ago-21,30-ago-21,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+213,18-nov-21,76001,cali,valle ,45,,subsidiado,otro,18-nov-21,18-nov-21,18-nov-21,22-nov-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+214,8-nov-21,76001,cali,valle ,40,,subsidiado,otro,8-nov-21,8-nov-21,8-nov-21,10-nov-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+215,2-jun-21,76001,cali,valle ,37,,subsidiado,otro,2-jun-21,2-jun-21,2-jun-21,4-jun-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+216,31-may-21,76001,cali,valle ,62,,subsidiado,otro,31-may-21,31-may-21,31-may-21,2-jun-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+217,25-oct-21,76001,cali,valle ,57,,subsidiado,otro,25-oct-21,25-oct-21,25-oct-21,2-nov-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+218,30-jul-21,76001,cali,valle ,55,,subsidiado,otro,30-jul-21,30-jul-21,30-jul-21,6-ago-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+219,13-jul-21,76001,cali,valle ,40,,subsidiado,otro,13-jul-21,13-jul-21,13-jul-21,14-jul-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+220,29-oct-21,76001,cali,valle ,64,,subsidiado,otro,29-oct-21,29-oct-21,29-oct-21,9-nov-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+221,15-dic-21,76001,cali,valle ,44,,subsidiado,otro,15-dic-21,21-oct-21,21-oct-21,26-oct-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+222,16-jul-21,76001,cali,valle ,60,,subsidiado,otro,16-jul-21,16-jul-21,20-ago-21,26-ago-21,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,8-abr-22,8-abr-22
+223,2-feb-21,76001,cali,valle ,51,,subsidiado,otro,2-feb-21,2-feb-21,2-feb-21,5-feb-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+224,7-abr-21,76001,cali,valle ,42,,subsidiado,otro,7-abr-21,7-abr-21,7-abr-21,12-abr-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+225,25-ene-21,76001,cali,valle ,41,,subsidiado,otro,25-ene-21,25-ene-21,25-ene-21,25-ene-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+226,17-ago-21,76001,cali,valle ,36,,subsidiado,otro,17-ago-21,17-ago-21,17-ago-21,2-sept-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+227,5-nov-21,76001,cali,valle ,29,,subsidiado,otro,5-nov-21,2-oct-21,2-oct-21,5-nov-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+228,11-may-21,76001,cali,valle ,23,,subsidiado,otro,11-may-21,11-may-21,11-may-21,13-may-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+229,8-feb-21,76001,cali,valle ,29,,subsidiado,otro,8-feb-21,8-feb-21,12-feb-21,12-feb-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+230,29-nov-21,76001,cali,valle ,32,,subsidiado,otro,29-nov-21,29-nov-21,29-nov-21,3-dic-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+231,12-feb-21,76001,cali,valle ,30,,subsidiado,otro,12-feb-21,12-feb-21,12-feb-21,21-feb-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+232,12-mar-21,76001,cali,valle ,34,,subsidiado,otro,12-mar-21,12-mar-21,12-mar-21,17-mar-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+233,16-abr-21,76001,cali,valle ,34,,subsidiado,otro,16-abr-21,16-abr-21,16-abr-21,22-abr-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+234,25-sept-21,76001,cali,valle ,33,,subsidiado,otro,25-sept-21,25-sept-21,25-sept-21,29-sept-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+235,21-jul-21,76001,cali,valle ,35,,subsidiado,otro,21-jul-21,21-jul-21,21-jul-21,23-jul-21,si,lei-ag,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+236,17-nov-21,76001,cali,valle ,33,,subsidiado,otro,17-nov-21,17-nov-21,17-nov-21,22-nov-21,si,lei-ag,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+237,12-mar-21,76001,cali,valle ,27,,subsidiado,otro,12-mar-21,12-mar-21,12-mar-21,16-mar-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+238,18-nov-21,76001,cali,valle ,30,,subsidiado,otro,18-nov-21,18-nov-21,18-nov-21,22-nov-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+239,13-oct-21,76001,cali,valle ,30,,subsidiado,otro,13-oct-21,13-oct-21,13-oct-21,20-oct-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+240,17-feb-21,76001,cali,valle ,30,,subsidiado,otro,17-feb-21,17-feb-21,17-feb-21,23-feb-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+241,26-ago-21,76001,cali,valle ,43,,subsidiado,otro,26-ago-21,26-ago-21,26-ago-21,30-ago-21,si,carcinoma escamocelular,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+242,7-dic-21,76001,cali,valle ,46,,subsidiado,otro,7-dic-21,7-dic-21,7-dic-21,15-dic-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+243,13-may-21,76001,cali,valle ,24,,subsidiado,otro,13-may-21,13-may-21,13-may-21,13-may-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+244,4-nov-21,76001,cali,valle ,75,,subsidiado,otro,30-mar-21,1-ene-21,15-ene-21,20-ene-21,no,#N/A,#N/A,no,#N/A,#N/A,8-abr-22,8-abr-22
+245,6-abr-21,76001,cali,valle ,76,,subsidiado,otro,30-mar-21,24-mar-21,24-mar-21,29-mar-21,no,#N/A,#N/A,si,negativo,#N/A,8-abr-22,8-abr-22
+246,17-sept-21,76001,cali,valle ,66,,contributivo,otro,17-sept-21,17-sept-21,17-sept-21,22-sept-21,si,carcinoma escamocelular,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+247,27-oct-21,76001,cali,valle ,40,,contributivo,otro,27-oct-21,27-oct-21,16-feb-21,23-feb-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+248,3-dic-21,76001,cali,valle ,31,,contributivo,otro,1-dic-21,10-ago-21,10-ago-21,10-sept-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+249,15-dic-21,76001,cali,valle ,31,,contributivo,otro,14-dic-21,13-oct-21,19-nov-21,19-nov-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+250,28-ene-21,76001,cali,valle ,40,,contributivo,otro,28-ene-21,5-dic-20,14-ene-21,20-ene-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+251,8-abr-21,76001,cali,valle ,49,,contributivo,otro,3-feb-21,7-ene-21,1-ene-21,7-ene-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+252,24-sept-21,76001,cali,valle ,48,,contributivo,otro,25-mar-21,25-feb-21,25-feb-21,25-feb-21,no,#N/A,#N/A,no,#N/A,#N/A,8-abr-22,8-abr-22
+253,12-nov-21,76001,cali,valle ,38,,contributivo,otro,4-oct-21,1-sept-21,15-sept-21,22-sept-21,si,carcinoma escamocelular,no indicado,si,positivo,in-situ,8-abr-22,8-abr-22
+254,3-nov-21,76001,cali,valle ,57,,contributivo,otro,2-nov-21,1-ago-21,7-oct-21,7-oct-21,no,#N/A,#N/A,si,positivo,in-situ,8-abr-22,8-abr-22
+255,14-jul-21,76001,cali,valle ,33,,contributivo,otro,24-jun-21,26-dic-20,29-abr-21,29-abr-21,no,#N/A,#N/A,si,positivo,in-situ,8-abr-22,8-abr-22
+256,21-jun-21,76001,cali,valle ,48,,contributivo,otro,22-feb-21,1-oct-20,28-ene-21,2-feb-21,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,8-abr-22,8-abr-22
+257,4-mar-21,76001,cali,valle ,39,,contributivo,otro,2-mar-21,13-nov-20,18-feb-21,18-feb-21,no,#N/A,#N/A,si,positivo,no indicado,8-abr-22,8-abr-22
+258,9-jul-21,76001,cali,valle ,30,,contributivo,otro,7-jul-21,1-may-21,7-jul-21,7-jul-21,no,#N/A,#N/A,si,positivo,no indicado,8-abr-22,8-abr-22
+259,10-nov-21,76001,cali,valle ,33,,contributivo,otro,9-nov-21,3-mar-21,3-sept-21,4-oct-21,no,#N/A,#N/A,si,positivo,no indicado,8-abr-22,8-abr-22
+260,20-mar-21,76001,cali,valle ,51,,contributivo,otro,12-mar-21,12-dic-20,3-mar-21,5-mar-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+261,10-jun-21,76001,cali,valle ,45,,contributivo,otro,1-jun-21,15-may-21,15-may-21,15-may-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+262,11-jun-21,76001,cali,valle ,89,,contributivo,otro,3-jun-21,28-ene-21,9-feb-21,9-feb-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+263,3-sept-21,76001,cali,valle ,56,,contributivo,otro,1-sept-21,1-mar-21,2-jul-21,2-jul-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+264,29-mar-21,76001,cali,valle ,65,,contributivo,otro,3-feb-21,27-ene-21,12-feb-21,16-feb-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+265,31-ago-21,76001,cali,valle ,42,,contributivo,otro,30-ago-21,2-jun-21,19-ago-21,19-ago-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+266,30-sept-21,76001,cali,valle ,69,,contributivo,otro,2-ago-21,29-jul-21,29-jul-21,29-jul-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+267,21-sept-21,76001,cali,valle ,64,,contributivo,otro,17-sept-21,19-ago-21,19-ago-21,19-ago-21,si,lei-ag,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+268,27-sept-21,76001,cali,valle ,67,,contributivo,otro,27-sept-21,11-jun-21,22-sept-21,22-sept-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+269,29-dic-21,76001,cali,valle ,41,,contributivo,otro,20-dic-21,1-dic-21,20-dic-21,23-dic-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+270,29-nov-21,76001,cali,valle ,40,,contributivo,otro,26-nov-21,11-ago-21,18-oct-21,18-oct-21,si,lei-ag,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+271,8-sept-21,76001,cali,valle ,66,,contributivo,otro,6-sept-21,6-ago-21,22-jul-21,22-jul-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+272,4-nov-21,76001,cali,valle ,36,,contributivo,otro,27-may-21,27-may-21,12-mar-21,12-mar-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+273,30-ago-21,76001,cali,valle ,46,,contributivo,otro,26-ago-21,1-jun-21,9-ago-21,9-ago-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+274,4-mar-21,76001,cali,valle ,36,,contributivo,otro,3-mar-21,20-ene-21,9-mar-21,15-mar-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+275,4-ago-21,76001,cali,valle ,39,,contributivo,otro,3-ago-21,1-ene-19,8-jul-21,8-jul-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+276,14-jun-21,76001,cali,valle ,44,,contributivo,otro,9-jun-21,21-may-21,21-may-21,21-may-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+277,16-jun-21,76001,cali,valle ,35,,contributivo,otro,10-jun-21,27-may-21,27-may-21,27-may-21,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+278,29-nov-21,76001,cali,valle ,30,,contributivo,otro,26-nov-21,1-oct-21,11-nov-21,11-nov-21,si,lei-ag,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+279,9-nov-21,76001,cali,valle ,35,,contributivo,otro,8-nov-21,1-sept-21,28-sept-21,1-oct-21,si,lei-ag,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+280,29-jul-21,76001,cali,valle ,33,,contributivo,otro,27-jul-21,1-ene-20,23-jul-21,27-jul-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+281,31-may-21,76001,cali,valle ,34,,contributivo,otro,28-may-21,22-abr-21,22-abr-21,28-abr-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+282,2-dic-21,76001,cali,valle ,33,,contributivo,otro,1-dic-21,13-sept-21,19-oct-21,19-oct-21,si,lei-ag,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+283,29-nov-21,76001,cali,valle ,32,,contributivo,otro,26-nov-21,10-jul-21,13-oct-21,13-oct-21,si,lei-ag,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+284,10-nov-21,76001,cali,valle ,30,,contributivo,otro,9-nov-21,1-ago-21,14-oct-21,14-oct-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+285,20-dic-21,76001,cali,valle ,31,,contributivo,otro,29-oct-21,1-oct-21,5-oct-21,7-oct-21,si,lei-ag,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+286,17-feb-21,76001,cali,valle ,26,,contributivo,afrocolombiano,17-feb-21,4-feb-21,4-feb-21,10-feb-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+287,16-jul-21,76001,cali,valle ,68,,excepcion,otro,12-jul-21,12-jul-21,12-mar-19,12-jul-21,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+288,4-nov-21,76001,cali,valle ,69,,excepcion,otro,2-ago-21,16-jul-21,13-sept-21,16-sept-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+289,4-nov-21,76001,cali,valle ,77,,excepcion,otro,20-sept-21,14-ago-21,29-sept-21,29-sept-21,si,lei-ag,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+290,21-oct-21,76001,cali,valle ,45,,subsidiado,otro,3-jun-21,3-jun-21,17-jun-21,25-jun-21,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,8-abr-22,8-abr-22
+291,31-mar-21,76001,cali,valle ,35,,contributivo,indigena ,11-mar-21,11-mar-21,11-mar-21,20-mar-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+292,24-jul-21,76001,cali,valle ,23,,contributivo,otro,29-jun-21,29-jun-21,29-mar-21,29-mar-21,si,lei-ag,in-situ,si,positivo,in-situ,8-abr-22,8-abr-22
+293,18-ago-21,76001,cali,valle ,69,,contributivo,otro,18-jul-21,18-jul-21,6-jul-21,12-jul-21,si,carcinoma escamocelular,infiltrante,si,positivo,infiltrante,8-abr-22,8-abr-22
+294,7-sept-21,76001,cali,valle ,51,,contributivo,otro,11-may-21,27-ene-21,15-ene-21,27-ene-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+295,31-mar-21,76001,cali,valle ,33,,contributivo,afrocolombiano,25-feb-21,1-feb-21,25-feb-21,10-mar-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+296,21-sept-21,76001,cali,valle ,78,,contributivo,otro,16-sept-21,22-jun-21,22-jun-21,22-jun-21,no,#N/A,#N/A,si,positivo,no indicado,8-abr-22,8-abr-22
+297,5-ago-21,76001,cali,valle ,24,,subsidiado,otro,5-ago-21,22-jul-21,22-jul-21,29-jul-21,si,lei-ag,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+298,16-jun-21,76001,cali,valle ,33,,contributivo,otro,3-jun-21,3-jun-21,3-jun-21,10-jun-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+299,27-jul-21,76001,cali,valle ,38,,subsidiado,otro,27-jul-21,27-jul-21,31-may-21,9-jun-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+300,6-oct-21,76001,cali,valle ,79,,contributivo,otro,15-jul-21,2-may-21,2-may-21,17-may-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+301,27-may-21,76001,cali,valle ,38,,contributivo,otro,29-mar-21,29-mar-21,26-abr-21,10-may-21,si,lei-ag,in-situ,no,negativo,#N/A,8-abr-22,8-abr-22
+302,24-nov-21,76001,cali,valle ,37,,contributivo,otro,6-sept-21,1-ene-21,18-ago-21,22-nov-21,si,lei-ag,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+303,15-jun-21,76001,cali,valle ,56,,contributivo,otro,9-jun-21,25-may-21,25-may-21,25-may-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+304,6-dic-21,76001,cali,valle ,40,,contributivo,otro,21-jul-21,9-jul-21,9-jul-21,29-jul-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+305,1-jul-21,76001,cali,valle ,44,,contributivo,otro,23-jun-21,23-may-21,23-jun-21,30-jun-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+306,11-oct-21,76001,cali,valle ,47,,contributivo,otro,4-oct-21,4-oct-21,16-sept-21,22-sept-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+307,30-nov-21,76001,cali,valle ,36,,contributivo,otro,29-nov-21,10-mar-21,29-oct-21,10-nov-21,si,carcinoma escamocelular,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+308,6-oct-21,76001,cali,valle ,31,,subsidiado,otro,7-sept-21,18-jun-21,31-may-21,14-jun-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+309,27-dic-21,76001,cali,valle ,31,,contributivo,otro,21-dic-21,22-nov-21,22-nov-21,5-dic-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+310,18-may-21,76001,cali,valle ,25,,contributivo,otro,23-feb-21,23-feb-21,3-feb-21,23-feb-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+311,24-ago-21,76001,cali,valle ,24,,contributivo,otro,24-jul-21,24-jul-21,24-jul-21,15-ago-21,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+312,1-jul-21,76001,cali,valle ,24,,contributivo,otro,11-jun-21,11-jun-21,5-jun-21,11-jun-21,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+313,4-nov-21,76001,cali,valle ,34,,contributivo,otro,3-nov-21,23-jun-21,12-ago-21,12-ago-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+314,4-oct-21,76001,cali,valle ,33,,contributivo,otro,20-may-21,12-abr-21,12-abr-21,28-abr-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+315,10-jun-21,76001,cali,valle ,33,,contributivo,otro,29-mar-21,29-mar-21,31-may-21,7-jun-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+316,27-may-21,76001,cali,valle ,27,,contributivo,otro,21-abr-21,13-abr-21,13-abr-21,21-abr-21,si,lei-ag,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+317,17-dic-21,76001,cali,valle ,47,,contributivo,otro,17-dic-21,9-nov-21,14-oct-21,9-nov-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+318,21-sept-21,76001,cali,valle ,33,,contributivo,otro,4-mar-21,10-feb-21,10-feb-21,10-feb-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+319,1-jun-21,76001,cali,valle ,47,,contributivo,otro,1-jun-21,13-may-21,17-mar-21,17-mar-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+320,19-may-21,76001,cali,valle ,56,,subsidiado,otro,14-abr-21,14-abr-21,14-abr-21,16-abr-21,no,#N/A,#N/A,si,positivo,no indicado,8-abr-22,8-abr-22
+321,2-mar-21,76001,cali,valle ,48,,contributivo,otro,2-mar-21,2-mar-21,17-feb-21,2-mar-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+322,5-oct-21,76001,cali,valle ,38,,subsidiado,otro,5-oct-21,27-jun-21,20-sept-21,3-oct-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+323,15-may-21,76001,cali,valle ,35,,contributivo,otro,15-may-21,28-dic-20,28-dic-20,2-ene-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+324,18-may-21,76001,cali,valle ,58,,subsidiado,otro,9-mar-21,9-mar-20,9-mar-21,26-mar-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+325,24-sept-21,76001,cali,valle ,72,,subsidiado,otro,30-ago-21,3-abr-21,11-ago-21,30-ago-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+326,4-oct-21,76001,cali,valle ,56,,contributivo,otro,4-oct-21,8-sept-21,8-sept-21,2-oct-21,si,carcinoma escamocelular,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+327,15-sept-21,76001,cali,valle ,42,,subsidiado,otro,13-sept-21,15-jun-21,9-sept-21,13-sept-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+328,15-may-21,76001,cali,valle ,55,,contributivo,otro,15-may-21,23-feb-21,23-feb-21,1-mar-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+329,4-oct-21,76001,cali,valle ,46,,contributivo,otro,4-oct-21,26-ago-21,26-ago-21,13-sept-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+330,28-dic-21,76001,cali,valle ,45,,subsidiado,otro,27-dic-21,13-dic-21,13-dic-21,20-dic-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+331,30-nov-21,76001,cali,valle ,27,,subsidiado,otro,30-nov-21,17-mar-21,22-nov-21,29-nov-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+332,12-oct-21,76001,cali,valle ,35,,contributivo,otro,12-oct-21,10-oct-21,21-sept-21,10-oct-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+333,10-ago-21,76001,cali,valle ,34,,contributivo,otro,10-ago-21,22-jul-21,22-jul-21,3-ago-21,si,lei-ag,in-situ,si,negativo,#N/A,8-abr-22,8-abr-22
+334,15-may-21,76001,cali,valle ,26,,contributivo,otro,15-may-21,26-feb-21,26-feb-21,12-mar-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+335,4-oct-21,76001,cali,valle ,29,,contributivo,otro,4-oct-21,16-sept-21,16-sept-21,26-sept-21,si,lei-ag,no indicado,no,#N/A,#N/A,8-abr-22,8-abr-22
+336,3-dic-21,76001,cali,valle ,32,,subsidiado,otro,1-dic-21,10-abr-21,10-abr-21,10-abr-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+337,13-oct-21,76001,cali,valle ,26,,contributivo,otro,13-oct-21,4-oct-21,4-oct-21,12-oct-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+338,22-sept-21,76001,cali,valle ,32,,subsidiado,otro,19-sept-21,8-sept-21,6-sept-21,19-sept-21,si,lei-ag,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+339,3-ago-21,76001,cali,valle ,31,,subsidiado,otro,21-jul-21,5-mar-21,21-jul-21,26-jul-21,no,#N/A,#N/A,no,#N/A,#N/A,8-abr-22,8-abr-22
+340,15-jul-21,76001,cali,valle ,34,,excepcion,otro,15-jun-21,1-dic-20,4-mar-21,4-mar-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+341,12-abr-21,76001,cali,valle ,31,,subsidiado,otro,24-mar-21,24-feb-21,24-mar-21,31-mar-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+342,10-feb-21,76001,cali,valle ,28,,contributivo,afrocolombiano,1-feb-21,1-ene-21,1-feb-21,10-feb-21,si,carcinoma escamocelular,in-situ,si,positivo,in-situ,8-abr-22,8-abr-22
+343,8-sept-21,76001,cali,valle ,60,,contributivo,otro,9-jun-21,25-mar-21,18-mar-21,25-mar-21,no,#N/A,#N/A,si,positivo,in-situ,8-abr-22,8-abr-22
+344,6-oct-21,76001,cali,valle ,54,,contributivo,otro,30-jul-21,20-feb-21,1-jun-21,17-jun-21,no,#N/A,#N/A,si,positivo,infiltrante,8-abr-22,8-abr-22
+345,31-mar-21,76001,cali,valle ,43,,contributivo,otro,8-mar-21,8-mar-21,8-mar-21,8-mar-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+346,3-feb-21,76001,cali,valle ,47,,contributivo,otro,25-ene-21,1-ene-21,25-ene-21,30-ene-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+347,3-feb-21,76001,cali,valle ,53,,contributivo,afrocolombiano,5-ene-21,1-ene-21,5-ene-21,10-ene-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+348,7-abr-21,76001,cali,valle ,42,,contributivo,otro,20-mar-21,1-ene-21,7-abr-21,7-abr-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+349,31-mar-21,76001,cali,valle ,33,,contributivo,otro,4-mar-21,1-feb-21,4-mar-21,4-mar-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+350,31-mar-21,76001,cali,valle ,28,,contributivo,otro,13-mar-21,1-feb-21,13-mar-21,20-mar-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+351,31-mar-21,76001,cali,valle ,39,,contributivo,afrocolombiano,4-mar-21,1-mar-21,31-mar-21,31-mar-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+352,3-feb-21,76001,cali,valle ,25,,contributivo,afrocolombiano,25-ene-21,1-ene-21,25-ene-21,30-ene-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+353,3-mar-21,76001,cali,valle ,44,,contributivo,otro,11-feb-21,1-ene-21,11-feb-21,15-feb-21,si,lei-ag,no indicado,si,positivo,no indicado,8-abr-22,8-abr-22
+354,8-dic-21,76001,cali,valle ,52,,contributivo,otro,31-ago-21,28-jul-21,1-jul-21,28-jul-21,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+355,6-oct-21,76001,cali,valle ,83,,contributivo,otro,27-jul-21,22-jun-21,8-feb-21,28-feb-21,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,8-abr-22,8-abr-22
+356,9-feb-21,76001,cali,valle ,42,,contributivo,otro,27-ene-21,27-nov-20,27-ene-21,2-feb-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+357,26-mar-21,76001,cali,valle ,45,,contributivo,otro,19-mar-21,19-mar-21,19-mar-21,24-mar-21,si,carcinoma escamocelular,infiltrante,si,negativo,#N/A,8-abr-22,8-abr-22
+358,13-ene-21,76001,cali,valle ,45,,contributivo,otro,6-ene-21,6-oct-20,6-ene-21,13-ene-21,si,lei-ag,no indicado,si,negativo,#N/A,8-abr-22,8-abr-22
+359,4-oct-21,76001,cali,valle ,30,,contributivo,otro,8-jul-21,28-may-21,2-jun-21,18-jun-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,8-abr-22,8-abr-22
+360,30-jun-21,76001,cali,valle ,61,,contributivo,otro,23-jun-21,1-nov-20,13-may-21,13-may-21,no,#N/A,#N/A,si,positivo,no indicado,44659,44659
+361,8-nov-21,76001,cali,valle ,37,,contributivo,otro,6-nov-21,1-ene-21,27-sept-21,27-sept-21,no,#N/A,#N/A,si,positivo,no indicado,44659,44659
+362,11-nov-21,76001,cali,valle ,50,,contributivo,otro,10-nov-21,10-jul-21,28-sept-21,28-sept-21,no,#N/A,#N/A,si,positivo,no indicado,44659,44659
+363,21-sept-21,76001,cali,valle ,69,,contributivo,otro,17-sept-21,28-jul-21,28-jul-21,28-jul-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,44659,44659
+364,27-sept-21,76001,cali,valle ,70,,contributivo,otro,23-sept-21,24-ene-21,24-jun-21,24-jun-21,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,44659,44659
+365,16-jul-21,76001,cali,valle ,87,,contributivo,otro,16-jul-21,24-abr-21,28-jun-21,28-jun-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,44659,44659
+366,12-abr-21,76001,cali,valle ,81,,contributivo,otro,5-abr-21,1-nov-20,25-mar-21,25-mar-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,44659,44659
+367,7-may-21,76001,cali,valle ,41,,contributivo,otro,4-may-21,22-abr-21,22-abr-21,22-abr-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,44659,44659
+368,6-oct-21,76001,cali,valle ,45,,contributivo,otro,5-oct-21,11-may-21,19-may-21,19-may-21,si,lei-ag,no indicado,no,#N/A,#N/A,44659,44659
+369,18-abr-21,76001,cali,valle ,40,,contributivo,otro,12-abr-21,28-feb-21,30-mar-21,7-abr-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,44659,44659
+370,21-sept-21,76001,cali,valle ,40,,contributivo,otro,8-sept-21,6-sept-21,10-sept-21,11-sept-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,44659,44659
+371,29-mar-21,76001,cali,valle ,57,,contributivo,otro,24-mar-21,24-mar-20,23-mar-21,23-mar-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,44659,44659
+372,3-nov-21,76001,cali,valle ,48,,contributivo,otro,2-nov-21,1-ene-21,28-sept-21,28-sept-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,44659,44659
+373,31-may-21,76001,cali,valle ,51,,contributivo,otro,29-may-21,24-abr-21,21-may-21,21-may-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,44659,44659
+374,24-may-21,76001,cali,valle ,48,,contributivo,otro,20-may-21,20-may-21,12-feb-20,18-feb-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,44659,44659
+375,15-jul-21,76001,cali,valle ,50,,contributivo,otro,8-jul-21,16-dic-20,23-abr-21,23-abr-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,44659,44659
+376,4-ago-21,76001,cali,valle ,48,,contributivo,otro,3-ago-21,1-mar-21,20-jun-21,13-jul-21,si,carcinoma escamocelular,no indicado,no,#N/A,#N/A,44659,44659
+377,6-oct-21,76001,cali,valle ,32,,contributivo,otro,5-oct-21,10-jul-21,28-sept-21,28-sept-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,44659,44659
+378,27-oct-21,76001,cali,valle ,33,,contributivo,otro,26-oct-21,23-nov-20,16-feb-21,16-feb-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,44659,44659
+379,27-dic-21,76001,cali,valle ,35,,contributivo,otro,24-dic-21,26-ene-21,27-sept-21,27-sept-21,si,lei-ag,no indicado,no,#N/A,#N/A,44659,44659
+380,11-jun-21,76001,cali,valle ,32,,contributivo,otro,8-jun-21,16-mar-21,16-mar-21,16-mar-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,44659,44659
+381,30-nov-21,76001,cali,valle ,32,,contributivo,otro,29-nov-21,17-nov-21,17-nov-21,23-nov-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,44659,44659
+382,11-oct-21,76001,cali,valle ,30,,contributivo,otro,8-oct-21,12-jul-21,10-ago-21,10-ago-21,si,lei-ag,no indicado,no,#N/A,#N/A,44659,44659
+383,3-dic-21,76001,cali,valle ,27,,subsidiado,otro,2-dic-21,3-sept-21,5-oct-21,5-oct-21,si,lei-ag,no indicado,si,positivo,in-situ,44659,44659
+384,8-sept-21,76001,cali,valle ,37,,subsidiado,otro,28-jun-21,28-may-21,1-may-21,28-may-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,44659,44659
+385,23-dic-21,76001,cali,valle ,36,,no afiliado,otro,22-dic-21,6-jul-20,6-dic-21,20-dic-21,no,#N/A,#N/A,si,positivo,infiltrante,44659,44659
+386,31-mar-21,76001,cali,valle ,96,,no afiliado,otro,30-mar-21,11-mar-21,11-mar-21,30-mar-21,no,#N/A,#N/A,si,positivo,infiltrante,44659,44659
+387,23-jun-21,76001,cali,valle ,46,,no afiliado,otro,20-jun-21,10-jun-21,10-jun-21,17-jun-21,no,#N/A,#N/A,si,positivo,infiltrante,44659,44659
+388,14-jul-21,76001,cali,valle ,39,,no afiliado,afrocolombiano,28-jun-21,28-jun-21,28-jun-21,5-jul-21,si,lei-ag,in-situ,no,#N/A,#N/A,44659,44659
+389,3-dic-21,76001,cali,valle ,62,,no afiliado,otro,1-dic-21,27-ago-21,28-jun-21,1-jul-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,44659,44659
+390,6-oct-21,76001,cali,valle ,45,,no afiliado,otro,5-oct-21,21-sept-21,28-sept-21,28-sept-21,si,lei-ag,no indicado,no,#N/A,#N/A,44659,44659
+391,2-jul-21,76001,cali,valle ,35,,no afiliado,otro,1-jul-21,21-jun-21,21-jun-21,28-jun-21,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,44659,44659
+392,13-dic-21,76001,cali,valle ,28,,no afiliado,otro,13-dic-21,4-nov-21,4-nov-21,6-dic-21,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,44659,44659
+393,1-sept-21,76001,cali,valle ,50,,no afiliado,otro,30-ago-21,8-abr-21,13-ago-21,30-ago-21,si,carcinoma escamocelular,infiltrante,no,#N/A,#N/A,44659,44659
+394,10-nov-21,76001,cali,valle ,41,,no afiliado,otro,9-nov-21,12-sept-21,22-oct-21,8-nov-21,si,lei-ag,in-situ,no,#N/A,#N/A,44659,44659
+395,15-sept-21,76001,cali,valle ,38,,no afiliado,otro,14-sept-21,13-ago-21,6-ago-21,30-ago-21,si,carcinoma escamocelular,in-situ,no,#N/A,#N/A,44659,44659
+396,25-dic-21,76001,cali,valle ,41,,no afiliado,otro,15-dic-21,15-dic-21,16-dic-21,25-dic-21,si,lei-ag,in-situ,no,#N/A,#N/A,44659,44659
+397,14-oct-21,76001,cali,valle ,31,,no afiliado,otro,14-oct-21,29-jun-21,3-jun-21,20-jun-21,si,lei-ag,in-situ,no,#N/A,#N/A,44659,44659
+398,30-nov-21,76001,cali,valle ,25,,no afiliado,otro,30-nov-21,4-mar-21,29-nov-21,29-nov-21,si,lei-ag,in-situ,no,#N/A,#N/A,44659,44659
+399,7-sept-21,76001,cali,valle ,56,,no afiliado,otro,7-sept-21,7-sept-21,7-sept-21,13-sept-21,si,lei-ag,in-situ,si,negativo,#N/A,44659,44659
+400,23-dic-21,76001,cali,valle ,42,,no afiliado,otro,23-dic-21,29-nov-21,23-nov-21,3-dic-21,si,lei-ag,no indicado,si,negativo,#N/A,44659,44659
+401,3-ago-21,76001,cali,valle ,37,,no afiliado,otro,15-jul-21,2-nov-20,15-jul-21,28-jul-21,no,#N/A,#N/A,no,#N/A,#N/A,44659,44659

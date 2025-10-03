@@ -1,0 +1,114 @@
+codigo_sspm;fec_not;cod_divipola;ciudad;dpto;edad_;sexo_;tip_ss_;per_etn_;fec_con_;ini_sin_;fec_toma_e;fec_res_ex;biop_exoce;res_b_exoc;grado_hist;biop_endoc;res_b_aden;res_b_hist;fecha_corte;fecha_reporte_web
+1;4-ene-2023;76369;Cali;Valle;42;femenino;subsidiado;otro;1-sep-2022;16-jun-2022;23-ago-2022;26-ago-2022;si;carcinoma escamocelular;infiltrante;si;positivo;infiltrante;27-mar-2023;15-abr-2023
+2;6-ene-2023;76370;Cali;Valle;73;femenino;contributivo;otro;4-ene-2023;1-jun-2022;2-dic-2022;2-dic-2022;no;#N/A;#N/A;si;positivo;no indicado;27-mar-2023;15-abr-2023
+3;11-ene-2023;76371;Cali;Valle;50;femenino;subsidiado;otro;11-ene-2023;23-dic-2022;13-dic-2022;23-dic-2022;si;lei-ag;in-situ;si;positivo;infiltrante;27-mar-2023;15-abr-2023
+4;13-ene-2023;76372;Cali;Valle;73;femenino;contributivo;otro;16-may-2022;30-mar-2022;30-mar-2022;8-abr-2022;no;#N/A;#N/A;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+5;13-ene-2023;76373;Cali;Valle;43;femenino;contributivo;otro;13-ene-2023;24-nov-2022;24-nov-2022;24-nov-2022;si;carcinoma escamocelular;no indicado;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+6;13-ene-2023;76374;Cali;Valle;81;femenino;contributivo;otro;14-sep-2022;19-jul-2022;19-jul-2022;22-jul-2022;no;#N/A;#N/A;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+7;10-ene-2023;76375;Cali;Valle;39;femenino;subsidiado;otro;9-ene-2023;3-ene-2023;24-oct-2022;24-oct-2022;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+8;11-ene-2023;76376;Cali;Valle;29;femenino;contributivo;otro;11-ene-2023;11-ene-2023;19-dic-2022;19-dic-2022;si;carcinoma escamocelular;no indicado;si;positivo;in-situ;27-mar-2023;15-abr-2023
+9;16-ene-2023;76377;Cali;Valle;59;femenino;contributivo;otro;16-ene-2023;26-dic-2022;9-dic-2022;19-dic-2022;no;#N/A;#N/A;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+10;20-ene-2023;76378;Cali;Valle;31;femenino;subsidiado;otro;28-sep-2022;31-ago-2022;20-dic-2022;18-ene-2023;si;lei-ag;in-situ;si;negativo;#N/A;27-mar-2023;15-abr-2023
+11;17-ene-2023;76379;Cali;Valle;68;femenino;no afiliado;otro;16-ene-2023;9-dic-2022;9-dic-2022;9-dic-2022;si;lei-ag;no indicado;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+12;20-ene-2023;76380;Cali;Valle;58;femenino;subsidiado;otro;2-dic-2022;5-oct-2022;9-jun-2022;23-jun-2022;no;#N/A;#N/A;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+13;20-ene-2023;76381;Cali;Valle;44;femenino;contributivo;otro;1-dic-2022;8-oct-2022;24-nov-2022;9-dic-2022;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+14;20-ene-2023;76382;Cali;Valle;81;femenino;contributivo;otro;23-nov-2022;8-sep-2022;31-oct-2022;15-nov-2022;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+15;20-ene-2023;76383;Cali;Valle;49;femenino;contributivo;otro;9-nov-2022;3-feb-2022;24-nov-2022;9-dic-2022;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+16;20-ene-2023;76384;Cali;Valle;66;femenino;contributivo;otro;15-jun-2022;25-may-2022;27-may-2022;11-jun-2022;no;#N/A;#N/A;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+17;20-ene-2023;76385;Cali;Valle;66;femenino;contributivo;otro;11-oct-2022;20-sep-2022;20-sep-2022;11-oct-2022;no;#N/A;#N/A;si;positivo;in-situ;27-mar-2023;15-abr-2023
+18;23-ene-2023;76386;Cali;Valle;51;femenino;subsidiado;otro;23-ene-2023;23-ene-2023;23-ene-2023;27-ene-2023;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+19;25-ene-2023;76387;Cali;Valle;61;femenino;contributivo;otro;25-ene-2023;1-may-2022;2-ene-2023;2-ene-2023;no;#N/A;#N/A;si;positivo;infiltrante;27-mar-2023;15-abr-2023
+20;1-feb-2023;76388;Cali;Valle;67;femenino;subsidiado;otro;13-ene-2023;13-ene-2023;17-ene-2023;20-ene-2023;si;lei-ag;in-situ;si;positivo;in-situ;27-mar-2023;15-abr-2023
+21;31-ene-2023;76389;Cali;Valle;39;femenino;contributivo;otro;31-ene-2023;29-dic-2022;14-ene-2023;31-ene-2023;si;carcinoma escamocelular;in-situ;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+22;31-ene-2023;76390;Cali;Valle;35;femenino;subsidiado;otro;31-ene-2023;31-ene-2023;31-ene-2023;3-feb-2023;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+23;4-feb-2023;76391;Cali;Valle;62;femenino;subsidiado;otro;3-ene-2023;15-sep-2022;26-ene-2023;1-feb-2023;si;carcinoma escamocelular;in-situ;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+24;6-feb-2023;76392;Cali;Valle;60;femenino;contributivo;otro;3-feb-2023;19-jun-2022;31-ene-2023;31-ene-2023;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+25;7-feb-2023;76393;Cali;Valle;28;femenino;contributivo;otro;7-feb-2023;31-ene-2023;31-ene-2023;7-feb-2023;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+26;8-feb-2023;76394;Cali;Valle;55;femenino;contributivo;otro;8-feb-2023;13-ene-2023;27-ene-2023;27-ene-2023;si;carcinoma escamocelular;no indicado;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+27;16-feb-2023;76395;Cali;Valle;48;femenino;contributivo;otro;14-feb-2023;1-feb-2022;19-dic-2022;19-dic-2022;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+28;13-feb-2023;76396;Cali;Valle;19;femenino;subsidiado;otro;13-feb-2023;13-feb-2023;13-feb-2023;16-feb-2023;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+29;16-feb-2023;76397;Cali;Valle;57;femenino;subsidiado;otro;16-feb-2023;16-feb-2023;17-feb-2023;17-feb-2023;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+30;16-feb-2023;76398;Cali;Valle;36;femenino;excepcion;otro;16-feb-2023;24-nov-2022;24-nov-2022;5-dic-2022;si;carcinoma escamocelular;in-situ;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+31;16-feb-2023;76399;Cali;Valle;24;femenino;contributivo;otro;15-feb-2023;22-dic-2022;20-dic-2022;22-dic-2022;si;carcinoma escamocelular;in-situ;si;positivo;in-situ;27-mar-2023;15-abr-2023
+32;16-feb-2023;76400;Cali;Valle;36;femenino;subsidiado;otro;16-feb-2023;30-nov-2021;7-jul-2022;17-jul-2022;si;carcinoma escamocelular;in-situ;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+33;17-feb-2023;76401;Cali;Valle;22;femenino;contributivo;otro;17-feb-2023;17-feb-2023;14-feb-2023;17-feb-2023;si;lei-ag;in-situ;si;negativo;#N/A;27-mar-2023;15-abr-2023
+34;16-feb-2023;76402;Cali;Valle;50;femenino;subsidiado;otro;16-feb-2023;7-sep-2022;14-dic-2022;23-dic-2022;no;#N/A;#N/A;si;positivo;in-situ;27-mar-2023;15-abr-2023
+35;15-feb-2023;76403;Cali;Valle;53;femenino;subsidiado;otro;15-feb-2023;15-feb-2023;1-feb-2023;17-feb-2023;si;lei-ag;in-situ;si;negativo;#N/A;27-mar-2023;15-abr-2023
+36;16-feb-2023;76404;Cali;Valle;48;femenino;subsidiado;otro;16-feb-2023;11-ene-2023;11-ene-2023;20-ene-2023;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+37;14-feb-2023;76405;Cali;Valle;30;femenino;contributivo;otro;10-feb-2023;2-ago-2022;7-sep-2022;7-sep-2022;no;#N/A;#N/A;si;positivo;in-situ;27-mar-2023;15-abr-2023
+38;16-feb-2023;76406;Cali;Valle;39;femenino;contributivo;otro;26-abr-2022;26-abr-2022;24-ene-2022;24-feb-2022;si;carcinoma escamocelular;in-situ;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+39;16-feb-2023;76407;Cali;Valle;36;femenino;contributivo;otro;16-feb-2023;16-feb-2023;9-feb-2023;14-feb-2023;si;lei-ag;in-situ;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+40;25-feb-2023;76408;Cali;Valle;55;femenino;subsidiado;otro;6-ene-2023;10-dic-2022;29-dic-2022;10-ene-2023;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+41;23-feb-2023;76409;Cali;Valle;30;femenino;contributivo;otro;18-feb-2023;18-feb-2023;2-feb-2023;8-feb-2023;si;lei-ag;in-situ;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+42;25-feb-2023;76410;Cali;Valle;69;femenino;contributivo;otro;14-dic-2022;10-oct-2022;7-dic-2022;22-dic-2022;si;carcinoma escamocelular;in-situ;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+43;20-feb-2023;76411;Cali;Valle;36;femenino;subsidiado;otro;26-dic-2022;26-dic-2022;3-ene-2023;3-feb-2023;si;lei-ag;in-situ;si;negativo;#N/A;27-mar-2023;15-abr-2023
+44;22-feb-2023;76412;Cali;Valle;40;femenino;subsidiado;otro;24-ene-2023;18-ene-2023;24-ene-2023;4-feb-2023;si;lei-ag;in-situ;si;negativo;#N/A;27-mar-2023;15-abr-2023
+45;22-feb-2023;76413;Cali;Valle;41;femenino;subsidiado;otro;20-ene-2023;20-ene-2023;31-ene-2023;4-feb-2023;si;lei-ag;in-situ;si;negativo;#N/A;27-mar-2023;15-abr-2023
+46;22-feb-2023;76414;Cali;Valle;25;femenino;subsidiado;otro;24-ene-2023;18-ene-2023;24-ene-2023;4-feb-2023;si;lei-ag;in-situ;si;positivo;in-situ;27-mar-2023;15-abr-2023
+47;20-feb-2023;76415;Cali;Valle;39;femenino;no afiliado;otro;17-feb-2023;1-nov-2022;18-nov-2022;18-nov-2022;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+48;22-feb-2023;76416;Cali;Valle;29;femenino;subsidiado;otro;18-ene-2023;18-ene-2023;24-ene-2023;6-feb-2023;si;lei-ag;in-situ;si;positivo;in-situ;27-mar-2023;15-abr-2023
+49;25-feb-2023;76417;Cali;Valle;40;femenino;subsidiado;otro;24-ene-2023;24-ene-2023;24-ene-2023;1-feb-2023;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+50;25-feb-2023;76418;Cali;Valle;34;femenino;no afiliado;otro;10-ene-2023;10-ene-2023;10-ene-2023;16-ene-2023;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+51;25-feb-2023;76419;Cali;Valle;30;femenino;no afiliado;otro;3-ene-2023;3-ene-2023;4-ene-2023;13-ene-2023;si;lei-ag;in-situ;si;negativo;#N/A;27-mar-2023;15-abr-2023
+52;2-mar-2023;76420;Cali;Valle;37;femenino;subsidiado;otro;1-mar-2023;30-ene-2023;1-feb-2023;3-feb-2023;si;lei-ag;in-situ;si;negativo;#N/A;27-mar-2023;15-abr-2023
+53;2-mar-2023;76421;Cali;Valle;20;femenino;subsidiado;otro;1-mar-2023;20-sep-2022;20-sep-2022;20-sep-2022;si;lei-ag;in-situ;si;negativo;#N/A;27-mar-2023;15-abr-2023
+54;1-mar-2023;76422;Cali;Valle;37;femenino;contributivo;otro;1-mar-2023;5-may-2022;17-feb-2023;17-feb-2023;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+55;2-mar-2023;76423;Cali;Valle;30;femenino;subsidiado;otro;28-feb-2023;16-nov-2022;16-nov-2022;10-dic-2022;si;carcinoma escamocelular;in-situ;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+56;4-mar-2023;76424;Cali;Valle;58;femenino;subsidiado;otro;24-ene-2023;12-ago-2022;3-feb-2023;9-feb-2023;no;#N/A;#N/A;si;positivo;infiltrante;27-mar-2023;15-abr-2023
+57;10-mar-2023;76425;Cali;Valle;59;femenino;contributivo;otro;7-abr-2022;31-mar-2022;3-may-2022;24-may-2022;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+58;6-mar-2023;76426;Cali;Valle;39;femenino;contributivo;otro;6-mar-2023;27-ene-2023;24-feb-2023;6-mar-2023;si;carcinoma escamocelular;infiltrante;si;positivo;infiltrante;27-mar-2023;15-abr-2023
+59;6-mar-2023;76427;Cali;Valle;37;femenino;contributivo;otro;10-jun-2022;5-ene-2022;21-feb-2022;8-mar-2022;si;lei-ag;in-situ;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+60;6-mar-2023;76428;Cali;Valle;45;femenino;contributivo;afrocolombiano;1-feb-2023;5-dic-2022;5-dic-2022;10-ene-2023;si;carcinoma escamocelular;no indicado;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+61;10-mar-2023;76429;Cali;Valle;38;femenino;contributivo;otro;17-feb-2022;20-dic-2021;18-feb-2022;19-abr-2022;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+62;8-mar-2023;76430;Cali;Valle;41;femenino;contributivo;otro;8-mar-2023;1-dic-2022;11-feb-2023;11-feb-2023;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+63;6-mar-2023;76431;Cali;Valle;46;femenino;subsidiado;otro;20-dic-2022;18-may-2022;9-may-2022;16-may-2022;si;lei-ag;in-situ;si;positivo;in-situ;27-mar-2023;15-abr-2023
+64;9-mar-2023;76432;Cali;Valle;41;femenino;subsidiado;otro;13-ene-2023;10-nov-2022;10-nov-2022;10-nov-2022;no;#N/A;#N/A;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+65;11-mar-2023;76433;Cali;Valle;31;femenino;subsidiado;otro;11-mar-2023;11-mar-2023;8-oct-2022;12-oct-2022;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+66;8-mar-2023;76434;Cali;Valle;42;femenino;contributivo;otro;21-ene-2023;12-dic-2022;22-dic-2022;5-ene-2023;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+67;9-mar-2023;76435;Cali;Valle;54;femenino;contributivo;otro;7-dic-2022;17-sep-2022;1-oct-2022;3-oct-2022;no;#N/A;#N/A;si;positivo;in-situ;27-mar-2023;15-abr-2023
+68;7-mar-2023;76436;Cali;Valle;35;femenino;contributivo;otro;17-feb-2022;28-ene-2022;28-ene-2022;28-ene-2022;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+69;10-mar-2023;76437;Cali;Valle;51;femenino;no afiliado;otro;25-abr-2022;1-abr-2022;25-abr-2022;5-may-2022;si;carcinoma escamocelular;no indicado;si;positivo;no indicado;27-mar-2023;15-abr-2023
+70;8-mar-2023;76438;Cali;Valle;63;femenino;contributivo;otro;26-oct-2022;20-jul-2022;1-oct-2022;15-oct-2022;si;carcinoma escamocelular;in-situ;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+71;8-mar-2023;76439;Cali;Valle;49;femenino;contributivo;otro;21-ene-2023;10-ago-2022;30-ago-2022;12-sep-2022;si;lei-ag;in-situ;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+72;9-mar-2023;76440;Cali;Valle;31;femenino;subsidiado;otro;27-feb-2023;27-ene-2023;27-feb-2023;7-mar-2023;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+73;8-mar-2023;76441;Cali;Valle;34;femenino;contributivo;otro;21-nov-2022;15-ago-2022;14-nov-2022;24-nov-2022;si;carcinoma escamocelular;infiltrante;si;positivo;infiltrante;27-mar-2023;15-abr-2023
+74;17-mar-2023;76442;Cali;Valle;75;femenino;contributivo;otro;1-ene-2023;1-ene-2023;19-ene-2023;28-ene-2023;no;#N/A;#N/A;si;positivo;infiltrante;27-mar-2023;15-abr-2023
+75;16-mar-2023;76443;Cali;Valle;80;femenino;contributivo;otro;15-mar-2023;15-nov-2022;16-ene-2023;16-ene-2023;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+76;15-mar-2023;76444;Cali;Valle;46;femenino;contributivo;otro;15-mar-2023;15-mar-2023;10-sep-2022;27-sep-2022;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+77;17-mar-2023;76445;Cali;Valle;40;femenino;contributivo;otro;26-ene-2023;4-nov-2022;13-ene-2023;25-ene-2023;no;#N/A;#N/A;si;positivo;no indicado;27-mar-2023;15-abr-2023
+78;15-mar-2023;76446;Cali;Valle;37;femenino;subsidiado;otro;14-mar-2023;18-dic-2022;19-dic-2022;22-dic-2022;si;lei-ag;in-situ;si;negativo;#N/A;27-mar-2023;15-abr-2023
+79;13-mar-2023;76447;Cali;Valle;70;femenino;subsidiado;otro;6-jul-2022;28-may-2022;27-jul-2022;11-ago-2022;si;carcinoma escamocelular;infiltrante;si;positivo;infiltrante;27-mar-2023;15-abr-2023
+80;17-mar-2023;76448;Cali;Valle;39;femenino;contributivo;otro;9-mar-2023;9-feb-2023;27-feb-2023;7-mar-2023;no;#N/A;#N/A;si;positivo;infiltrante;27-mar-2023;15-abr-2023
+81;18-mar-2023;76449;Cali;Valle;77;femenino;contributivo;otro;21-ene-2023;8-sep-2022;3-ene-2023;18-ene-2023;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+82;15-mar-2023;76450;Cali;Valle;72;femenino;subsidiado;otro;28-sep-2022;1-ago-2022;11-ago-2022;11-ago-2022;si;lei-ag;no indicado;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+83;18-mar-2023;76451;Cali;Valle;36;femenino;contributivo;otro;2-mar-2023;9-ene-2023;14-feb-2023;1-mar-2023;si;carcinoma escamocelular;in-situ;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+84;22-mar-2023;76452;Cali;Valle;58;femenino;subsidiado;otro;1-ago-2022;1-ago-2022;1-sep-2022;5-sep-2022;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+85;22-mar-2023;76453;Cali;Valle;28;femenino;contributivo;otro;1-nov-2022;1-nov-2022;1-dic-2022;5-dic-2022;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+86;24-mar-2023;76454;Cali;Valle;40;femenino;contributivo;otro;1-jul-2022;1-jul-2022;1-ene-2023;7-ene-2023;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+87;23-mar-2023;76455;Cali;Valle;74;femenino;contributivo;otro;21-mar-2023;1-abr-2022;8-feb-2023;8-feb-2023;no;#N/A;#N/A;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+88;23-mar-2023;76456;Cali;Valle;68;femenino;contributivo;otro;4-ene-2023;2-ene-2023;20-dic-2022;2-ene-2023;si;carcinoma escamocelular;infiltrante;si;positivo;no indicado;27-mar-2023;15-abr-2023
+89;22-mar-2023;76457;Cali;Valle;38;femenino;subsidiado;otro;1-nov-2022;1-nov-2022;1-nov-2022;5-nov-2022;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+90;23-mar-2023;76458;Cali;Valle;32;femenino;subsidiado;otro;1-jun-2022;1-jun-2022;1-jul-2022;7-jul-2022;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+91;23-mar-2023;76459;Cali;Valle;47;femenino;subsidiado;otro;1-jun-2022;1-jun-2022;1-oct-2022;7-oct-2022;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+92;22-mar-2023;76460;Cali;Valle;40;femenino;contributivo;otro;1-nov-2022;1-nov-2022;1-ene-2023;5-ene-2023;si;lei-ag;no indicado;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+93;22-mar-2023;76461;Cali;Valle;29;femenino;contributivo;afrocolombiano;1-sep-2022;1-sep-2022;1-ene-2023;5-ene-2023;si;lei-ag;no indicado;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+94;24-mar-2023;76462;Cali;Valle;34;femenino;contributivo;afrocolombiano;1-feb-2023;1-feb-2023;2-mar-2023;8-mar-2023;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+95;24-mar-2023;76463;Cali;Valle;50;femenino;subsidiado;#N/A;1-ene-2023;1-ene-2023;6-mar-2023;12-mar-2023;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+96;24-mar-2023;76464;Cali;Valle;43;femenino;contributivo;otro;18-ene-2023;18-ene-2023;13-feb-2023;16-feb-2023;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+97;22-mar-2023;76465;Cali;Valle;35;femenino;contributivo;otro;1-sep-2022;1-sep-2022;1-oct-2022;5-oct-2022;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+98;23-mar-2023;76466;Cali;Valle;25;femenino;contributivo;otro;1-nov-2021;1-nov-2021;1-ene-2022;7-ene-2022;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+99;21-mar-2023;76467;Cali;Valle;48;femenino;contributivo;otro;26-dic-2022;26-dic-2022;5-ene-2022;13-ene-2022;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+100;21-mar-2023;76468;Cali;Valle;45;femenino;contributivo;afrocolombiano;4-ago-2022;1-mar-2022;4-ago-2022;10-ago-2022;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+101;24-mar-2023;76469;Cali;Valle;28;femenino;contributivo;otro;1-oct-2022;1-oct-2022;9-feb-2023;14-feb-2023;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+102;24-mar-2023;76470;Cali;Valle;35;femenino;contributivo;otro;1-ago-2022;1-ago-2022;1-nov-2022;7-nov-2022;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+103;21-mar-2023;76471;Cali;Valle;33;femenino;contributivo;otro;2-ene-2023;1-mar-2022;2-ene-2023;6-ene-2023;si;carcinoma escamocelular;in-situ;si;positivo;in-situ;27-mar-2023;15-abr-2023
+104;22-mar-2023;76472;Cali;Valle;40;femenino;contributivo;otro;20-feb-2023;12-dic-2022;20-ene-2023;4-feb-2023;si;carcinoma escamocelular;in-situ;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+105;22-mar-2023;76473;Cali;Valle;53;femenino;subsidiado;otro;22-mar-2023;12-dic-2022;27-feb-2023;14-mar-2023;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+106;23-mar-2023;76474;Cali;Valle;64;femenino;subsidiado;otro;15-feb-2023;1-feb-2023;1-nov-2022;26-nov-2022;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+107;22-mar-2023;76475;Cali;Valle;41;femenino;subsidiado;otro;21-feb-2023;10-sep-2022;6-oct-2022;22-oct-2022;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+108;21-mar-2023;76476;Cali;Valle;43;femenino;subsidiado;otro;6-mar-2023;6-feb-2023;6-mar-2023;15-mar-2023;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
+109;22-mar-2023;76477;Cali;Valle;27;femenino;contributivo;otro;14-mar-2023;19-dic-2022;7-mar-2023;22-mar-2023;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+110;22-mar-2023;76478;Cali;Valle;36;femenino;contributivo;otro;21-ene-2023;12-dic-2022;5-ene-2023;20-ene-2023;si;carcinoma escamocelular;infiltrante;no;#N/A;#N/A;27-mar-2023;15-abr-2023
+111;31-mar-2023;76479;Cali;Valle;31;femenino;subsidiado;otro;29-mar-2023;16-mar-2023;2-mar-2023;29-mar-2023;si;carcinoma escamocelular;infiltrante;si;positivo;infiltrante;27-mar-2023;15-abr-2023
+112;31-mar-2023;76480;Cali;Valle;62;femenino;contributivo;otro;27-mar-2023;10-mar-2023;10-mar-2023;10-mar-2023;no;#N/A;#N/A;si;positivo;no indicado;27-mar-2023;15-abr-2023
+113;27-mar-2023;76481;Cali;Valle;37;femenino;contributivo;otro;13-mar-2023;13-feb-2023;13-mar-2023;23-mar-2023;si;lei-ag;no indicado;si;negativo;#N/A;27-mar-2023;15-abr-2023
