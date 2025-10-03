@@ -150,3 +150,10 @@ print("df unificadso cargado en:", table_id_bog)
 
 ```
 
+## Reporte Power BI
+
+Despues de cargar los datos se diseña un reporte en Power BI para facilitar la presentacion de datos y el analisis de los mismos. Para ello se creo una llave para el usuario donde se creó el reporte y con ello se realizó la ocnfiguracion en DNS del conector ODCB, de esta manera se garantiza la conectividad con la base de datos, así como también ya no se requiere autenticacion cada que se realice la conexión. 
+Tras realizar este proceso, traer los datos mediante ODBC se acomodan las tablas, se crean las relaciones de las tablas de hechos con la de calendario para la funcionalidad de filtro, se crean las metricas que se requieren para el reporte. A continuacion se presenta el diseño visual del reporte.
+
+<img width="939" height="518" alt="ReportePBI" src="https://github.com/user-attachments/assets/cc8ad1be-3ccb-41dd-83b8-ae9c26625432" />
+
